@@ -1,0 +1,1179 @@
+transaction_id,transaction_date,transaction_time,state,city,payment_method,transaction_type,merchant_category,amount_inr,transaction_status,device_type,bank,customer_age_group
+TXN000474,2025-01-01,20:32:00,West Bengal,Howrah,Debit Card,P2P Transfer,Healthcare,582.24,Success,Android,ICICI Bank,18-25
+TXN000528,2025-01-01,03:01:00,Delhi,Dwarka,UPI,Merchant Payment,Education,155.72,Success,iOS,ICICI Bank,60+
+TXN000630,2025-01-02,04:16:00,Tamil Nadu,Madurai,Mobile Wallet,P2P Transfer,Shopping,443.28,Success,iOS,Other,26-35
+TXN001121,2025-01-03,08:44:00,Gujarat,Ahmedabad,Net Banking,Recharge,Entertainment,448.33,Success,Web,HDFC Bank,36-45
+TXN001158,2025-01-03,15:10:00,Kerala,Thiruvananthapuram,UPI,Recharge,Education,1411.54,Success,iOS,Other,46-60
+TXN000018,2025-01-04,02:45:00,Delhi,Rohini,UPI,Merchant Payment,Food & Dining,203.21,Failed,iOS,SBI,60+
+TXN000120,2025-01-04,05:55:00,Kerala,Kochi,Net Banking,Recharge,Food & Dining,314.8,Success,Web,SBI,18-25
+TXN000341,2025-01-04,16:42:00,Karnataka,Mysuru,Net Banking,Online Shopping,Shopping,65.22,Success,Android,Axis Bank,18-25
+TXN000728,2025-01-04,07:53:00,Gujarat,Surat,Credit Card,Bill Payment,Transport,210.1,Success,iOS,Other,46-60
+TXN000766,2025-01-04,06:52:00,Delhi,Rohini,Mobile Wallet,P2P Transfer,Shopping,73.47,Success,iOS,HDFC Bank,60+
+TXN001096,2025-01-04,15:53:00,Delhi,New Delhi,Credit Card,Merchant Payment,Shopping,136.9,Failed,Web,Axis Bank,46-60
+TXN000290,2025-01-05,11:12:00,West Bengal,Howrah,Net Banking,Bill Payment,Utilities,79.62,Success,Web,Axis Bank,26-35
+TXN000799,2025-01-05,09:18:00,Telangana,Warangal,Mobile Wallet,Recharge,Groceries,152.68,Success,Web,HDFC Bank,46-60
+TXN000923,2025-01-05,03:34:00,Tamil Nadu,Madurai,UPI,Merchant Payment,Transport,169.52,Success,Web,Axis Bank,26-35
+TXN000529,2025-01-06,20:12:00,Delhi,Rohini,Credit Card,Bill Payment,Food & Dining,192.43,Success,Web,Kotak Mahindra Bank,36-45
+TXN000962,2025-01-06,17:50:00,Gujarat,Ahmedabad,UPI,Online Shopping,Transport,560.68,Success,Web,Other,36-45
+TXN000069,2025-01-07,18:18:00,Karnataka,Mysuru,Mobile Wallet,Recharge,Healthcare,213.07,Success,Android,ICICI Bank,46-60
+TXN000520,2025-01-07,14:31:00,Telangana,Warangal,Net Banking,P2P Transfer,Entertainment,314.63,Success,Web,Other,46-60
+TXN000648,2025-01-07,21:31:00,Maharashtra,Nagpur,UPI,Recharge,Entertainment,140.57,Success,Web,SBI,18-25
+TXN000280,2025-01-08,08:13:00,Karnataka,Bengaluru,UPI,Recharge,Shopping,100.96,Success,Web,Axis Bank,46-60
+TXN000352,2025-01-08,10:48:00,Kerala,Kochi,UPI,P2P Transfer,Utilities,648.95,Success,iOS,ICICI Bank,26-35
+TXN000496,2025-01-08,10:44:00,Telangana,Hyderabad,Credit Card,Recharge,Entertainment,254.4,Success,Android,Other,60+
+TXN001060,2025-01-08,23:15:00,Tamil Nadu,Chennai,UPI,P2P Transfer,Transport,102.45,Success,iOS,ICICI Bank,36-45
+TXN000226,2025-01-09,16:52:00,Telangana,Warangal,Debit Card,P2P Transfer,Food & Dining,440.96,Success,Android,HDFC Bank,60+
+TXN000591,2025-01-09,15:05:00,Maharashtra,Mumbai,UPI,Merchant Payment,Food & Dining,159.42,Success,Web,ICICI Bank,46-60
+TXN000934,2025-01-09,11:35:00,Delhi,Dwarka,Debit Card,P2P Transfer,Groceries,16.46,Failed,iOS,HDFC Bank,36-45
+TXN000578,2025-01-10,15:09:00,West Bengal,Kolkata,UPI,Recharge,Shopping,320.82,Success,iOS,Axis Bank,60+
+TXN000667,2025-01-10,20:45:00,Maharashtra,Nagpur,Debit Card,Online Shopping,Entertainment,115.01,Success,Web,Axis Bank,36-45
+TXN000750,2025-01-10,08:50:00,Maharashtra,Mumbai,Debit Card,Online Shopping,Entertainment,36.36,Success,Web,Kotak Mahindra Bank,36-45
+TXN001114,2025-01-11,00:47:00,Gujarat,Ahmedabad,UPI,Online Shopping,Education,243.64,Success,Web,ICICI Bank,36-45
+TXN000715,2025-01-12,03:10:00,Gujarat,Ahmedabad,Mobile Wallet,Recharge,Entertainment,142.93,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000787,2025-01-12,05:53:00,Delhi,Dwarka,UPI,P2P Transfer,Transport,341.7,Success,Android,ICICI Bank,26-35
+TXN000863,2025-01-12,17:25:00,Maharashtra,Pune,Mobile Wallet,Recharge,Healthcare,697.5,Success,iOS,SBI,60+
+TXN000870,2025-01-12,18:36:00,Delhi,Rohini,Mobile Wallet,Bill Payment,Food & Dining,1107.88,Success,Android,Axis Bank,46-60
+TXN000980,2025-01-12,13:04:00,West Bengal,Howrah,UPI,Merchant Payment,Education,317.48,Success,iOS,Other,46-60
+TXN000001,2025-01-13,23:17:00,Karnataka,Bengaluru,Debit Card,Merchant Payment,Food & Dining,243.89,Success,Web,SBI,60+
+TXN000773,2025-01-13,18:51:00,Gujarat,Surat,Credit Card,Merchant Payment,Food & Dining,279.33,Success,iOS,SBI,36-45
+TXN000165,2025-01-14,11:35:00,West Bengal,Howrah,Mobile Wallet,Online Shopping,Transport,388.92,Success,Android,SBI,36-45
+TXN000453,2025-01-14,12:33:00,Tamil Nadu,Chennai,UPI,Bill Payment,Transport,55.38,Success,iOS,ICICI Bank,26-35
+TXN000936,2025-01-14,22:27:00,Gujarat,Surat,UPI,P2P Transfer,Food & Dining,89.83,Success,Web,HDFC Bank,18-25
+TXN000597,2025-01-15,15:32:00,Maharashtra,Mumbai,UPI,Merchant Payment,Entertainment,113.31,Success,iOS,Axis Bank,26-35
+TXN000002,2025-01-17,00:05:00,Gujarat,Ahmedabad,Debit Card,Online Shopping,Groceries,129.25,Success,Web,Other,60+
+TXN000510,2025-01-17,13:48:00,Delhi,New Delhi,Credit Card,Recharge,Utilities,64.65,Success,Android,HDFC Bank,18-25
+TXN000868,2025-01-18,03:15:00,Delhi,Dwarka,Mobile Wallet,Bill Payment,Transport,207.36,Success,iOS,Other,18-25
+TXN001039,2025-01-18,20:41:00,Telangana,Warangal,Mobile Wallet,Bill Payment,Transport,185.76,Success,Web,Axis Bank,36-45
+TXN001048,2025-01-18,04:57:00,Delhi,New Delhi,Credit Card,Recharge,Food & Dining,30.68,Success,Web,Other,60+
+TXN000408,2025-01-19,17:16:00,Delhi,Rohini,Mobile Wallet,Recharge,Transport,128.72,Success,Android,Kotak Mahindra Bank,36-45
+TXN000583,2025-01-19,06:01:00,Maharashtra,Nagpur,Net Banking,Merchant Payment,Entertainment,279.44,Success,Web,Other,36-45
+TXN001065,2025-01-19,07:44:00,Maharashtra,Howrah,Mobile Wallet,P2P Transfer,Groceries,103.29,Success,Android,ICICI Bank,36-45
+TXN000331,2025-01-20,05:17:00,West Bengal,Howrah,Debit Card,Online Shopping,Education,146.61,Success,iOS,Other,26-35
+TXN000661,2025-01-20,14:42:00,Kerala,Thiruvananthapuram,Net Banking,Online Shopping,Education,83.62,Success,Web,Axis Bank,60+
+TXN000837,2025-01-20,03:24:00,Gujarat,Ahmedabad,Debit Card,Recharge,Shopping,699.59,Success,Web,ICICI Bank,60+
+TXN000392,2025-01-21,21:56:00,Delhi,Dwarka,Mobile Wallet,P2P Transfer,Education,242.72,Success,Web,ICICI Bank,18-25
+TXN000472,2025-01-21,15:45:00,Telangana,Warangal,Net Banking,Bill Payment,Entertainment,14.85,Success,Android,Kotak Mahindra Bank,36-45
+TXN000501,2025-01-21,07:59:00,Tamil Nadu,Madurai,Credit Card,Recharge,Education,374.72,Success,Android,ICICI Bank,36-45
+TXN000513,2025-01-21,17:24:00,Gujarat,Ahmedabad,Debit Card,Bill Payment,Entertainment,116.87,Success,iOS,ICICI Bank,46-60
+TXN001193,2025-01-21,11:25:00,Gujarat,Surat,Mobile Wallet,P2P Transfer,Food & Dining,81.34,Success,iOS,Kotak Mahindra Bank,18-25
+TXN001093,2025-01-22,23:56:00,Maharashtra,Nagpur,Debit Card,Recharge,Shopping,307.24,Success,Web,ICICI Bank,18-25
+TXN000032,2025-01-23,00:21:00,Telangana,Hyderabad,Credit Card,Merchant Payment,Entertainment,946.03,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000211,2025-01-23,12:28:00,Delhi,New Delhi,Net Banking,Merchant Payment,Groceries,262.67,Success,iOS,HDFC Bank,60+
+TXN000293,2025-01-23,07:57:00,Karnataka,Mangaluru,Mobile Wallet,Bill Payment,Entertainment,82.32,Pending,Android,Kotak Mahindra Bank,18-25
+TXN000495,2025-01-23,07:12:00,West Bengal,Howrah,Debit Card,P2P Transfer,Food & Dining,680.7,Success,Android,Kotak Mahindra Bank,26-35
+TXN000124,2025-01-24,07:25:00,Telangana,Hyderabad,UPI,Merchant Payment,Shopping,36.53,Failed,Android,ICICI Bank,36-45
+TXN000367,2025-01-24,02:16:00,West Bengal,Howrah,UPI,Online Shopping,Utilities,185.69,Pending,Web,ICICI Bank,60+
+TXN000851,2025-01-24,23:20:00,Kerala,Thiruvananthapuram,Debit Card,Online Shopping,Entertainment,79.59,Success,Web,SBI,36-45
+TXN000819,2025-01-25,12:49:00,Tamil Nadu,Coimbatore,Debit Card,Bill Payment,Utilities,161.14,Success,Android,Axis Bank,18-25
+TXN000055,2025-01-26,08:24:00,Maharashtra,Pune,Debit Card,Recharge,Healthcare,416.13,Success,iOS,ICICI Bank,46-60
+TXN000107,2025-01-26,10:15:00,Tamil Nadu,Coimbatore,Net Banking,Merchant Payment,Food & Dining,978.66,Success,Web,HDFC Bank,60+
+TXN000177,2025-01-26,09:31:00,Tamil Nadu,Salem,Credit Card,Online Shopping,Groceries,150.36,Success,iOS,HDFC Bank,36-45
+TXN000370,2025-01-26,16:14:00,Telangana,Warangal,Mobile Wallet,Merchant Payment,Food & Dining,68.51,Success,Web,Axis Bank,18-25
+TXN000523,2025-01-26,03:26:00,Karnataka,Bengaluru,Debit Card,Bill Payment,Transport,76.51,Failed,Web,Kotak Mahindra Bank,36-45
+TXN001169,2025-01-26,19:43:00,Kerala,Thiruvananthapuram,Credit Card,Recharge,Healthcare,269.01,Success,Android,Kotak Mahindra Bank,36-45
+TXN000468,2025-01-27,21:13:00,Kerala,Kochi,Debit Card,Recharge,Healthcare,316.56,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000905,2025-01-27,21:47:00,Tamil Nadu,Madurai,Debit Card,Bill Payment,Entertainment,179.67,Success,Web,SBI,46-60
+TXN001132,2025-01-27,04:32:00,Karnataka,Mysuru,Mobile Wallet,Recharge,Healthcare,226.31,Success,Android,HDFC Bank,60+
+TXN001007,2025-01-28,14:17:00,Kerala,Thiruvananthapuram,Mobile Wallet,P2P Transfer,Education,363.29,Success,iOS,HDFC Bank,36-45
+TXN001030,2025-01-28,12:08:00,Telangana,Warangal,UPI,Recharge,Entertainment,53.37,Success,Android,SBI,36-45
+TXN001146,2025-01-28,12:45:00,Telangana,Warangal,Debit Card,Bill Payment,Transport,150.74,Success,iOS,HDFC Bank,26-35
+TXN001156,2025-01-28,02:19:00,Kerala,Howrah,Credit Card,Recharge,Education,407.41,Success,Android,Other,26-35
+TXN000204,2025-01-29,14:08:00,West Bengal,Howrah,Mobile Wallet,Online Shopping,Groceries,425.73,Success,Web,ICICI Bank,18-25
+TXN000309,2025-01-29,07:38:00,Karnataka,Bengaluru,UPI,Online Shopping,Entertainment,256.49,Success,Web,HDFC Bank,26-35
+TXN000532,2025-01-29,16:19:00,Gujarat,Surat,Net Banking,Online Shopping,Groceries,28.18,Success,Web,ICICI Bank,36-45
+TXN000015,2025-01-30,07:56:00,Delhi,Howrah,UPI,P2P Transfer,Entertainment,26.45,Success,Web,HDFC Bank,26-35
+TXN000306,2025-01-30,15:33:00,Telangana,Warangal,Net Banking,Merchant Payment,Transport,166.89,Success,Web,HDFC Bank,36-45
+TXN000827,2025-01-31,04:23:00,Karnataka,Mysuru,Credit Card,Merchant Payment,Transport,720.23,Success,Web,SBI,26-35
+TXN000862,2025-01-31,10:09:00,Gujarat,Ahmedabad,Debit Card,P2P Transfer,Transport,32.6,Success,Web,Axis Bank,36-45
+TXN001120,2025-01-31,15:16:00,Delhi,Dwarka,Credit Card,Bill Payment,Transport,424.39,Success,Web,Kotak Mahindra Bank,60+
+TXN000300,2025-02-01,07:08:00,Tamil Nadu,Coimbatore,Mobile Wallet,Bill Payment,Food & Dining,278.56,Success,iOS,SBI,18-25
+TXN000411,2025-02-02,08:23:00,Delhi,New Delhi,UPI,Merchant Payment,Healthcare,302.36,Success,iOS,SBI,18-25
+TXN000846,2025-02-02,10:01:00,Telangana,Hyderabad,Mobile Wallet,Recharge,Food & Dining,242.85,Success,iOS,SBI,60+
+TXN000872,2025-02-02,16:53:00,West Bengal,Kolkata,Debit Card,P2P Transfer,Transport,66.8,Success,Web,HDFC Bank,18-25
+TXN001045,2025-02-02,01:39:00,Gujarat,Surat,UPI,P2P Transfer,Food & Dining,124.88,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000070,2025-02-03,12:31:00,Karnataka,Bengaluru,Net Banking,P2P Transfer,Transport,77.86,Success,Web,ICICI Bank,18-25
+TXN000880,2025-02-03,10:40:00,Gujarat,Ahmedabad,Credit Card,Bill Payment,Shopping,487.06,Success,Android,ICICI Bank,18-25
+TXN000943,2025-02-03,06:38:00,Karnataka,Bengaluru,Credit Card,Merchant Payment,Utilities,284.35,Success,Android,HDFC Bank,36-45
+TXN001142,2025-02-03,06:52:00,Tamil Nadu,Coimbatore,Credit Card,P2P Transfer,Transport,587.4,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000132,2025-02-04,15:28:00,West Bengal,Howrah,Credit Card,Online Shopping,Groceries,158.95,Success,Android,ICICI Bank,46-60
+TXN000250,2025-02-04,09:02:00,Kerala,Kochi,UPI,Bill Payment,Food & Dining,222.51,Success,Android,Other,26-35
+TXN001127,2025-02-04,00:19:00,West Bengal,Kolkata,Debit Card,P2P Transfer,Entertainment,200.87,Success,Android,Kotak Mahindra Bank,46-60
+TXN001128,2025-02-04,11:40:00,Maharashtra,Nagpur,Debit Card,Bill Payment,Groceries,69.81,Failed,iOS,ICICI Bank,46-60
+TXN000206,2025-02-05,15:02:00,Tamil Nadu,Madurai,Mobile Wallet,Merchant Payment,Transport,58.1,Success,Web,Other,46-60
+TXN000576,2025-02-05,15:59:00,West Bengal,Kolkata,Mobile Wallet,Recharge,Transport,16.26,Success,Android,HDFC Bank,60+
+TXN000126,2025-02-06,12:55:00,Kerala,Kochi,Mobile Wallet,P2P Transfer,Entertainment,1326.71,Failed,iOS,Kotak Mahindra Bank,46-60
+TXN000273,2025-02-06,07:24:00,West Bengal,Kolkata,UPI,P2P Transfer,Healthcare,474.93,Success,iOS,HDFC Bank,46-60
+TXN000450,2025-02-06,02:10:00,Gujarat,Surat,Debit Card,Bill Payment,Healthcare,51.46,Success,Web,ICICI Bank,60+
+TXN000493,2025-02-06,08:49:00,Delhi,Dwarka,Credit Card,Online Shopping,Food & Dining,160.35,Success,iOS,Axis Bank,36-45
+TXN000951,2025-02-06,05:45:00,Karnataka,Mysuru,Credit Card,Recharge,Shopping,116.6,Success,iOS,Other,26-35
+TXN000095,2025-02-07,14:22:00,Maharashtra,Nagpur,Credit Card,Recharge,Shopping,100.27,Success,iOS,HDFC Bank,46-60
+TXN000163,2025-02-07,14:11:00,Maharashtra,Nagpur,Mobile Wallet,P2P Transfer,Healthcare,472.76,Success,Web,SBI,60+
+TXN000575,2025-02-07,08:49:00,Maharashtra,Mumbai,Mobile Wallet,Recharge,Healthcare,340.16,Pending,iOS,ICICI Bank,26-35
+TXN000774,2025-02-07,19:39:00,Delhi,Dwarka,UPI,Recharge,Food & Dining,392.51,Success,Android,SBI,46-60
+TXN000785,2025-02-07,11:01:00,Tamil Nadu,Chennai,Debit Card,Bill Payment,Entertainment,259.77,Success,Web,ICICI Bank,18-25
+TXN000033,2025-02-08,22:57:00,Karnataka,Bengaluru,Net Banking,P2P Transfer,Healthcare,146.42,Success,Android,Axis Bank,26-35
+TXN000772,2025-02-08,07:12:00,Gujarat,Ahmedabad,Credit Card,Bill Payment,Food & Dining,84.57,Success,Android,SBI,46-60
+TXN000877,2025-02-08,17:16:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Education,88.45,Success,iOS,Other,46-60
+TXN001162,2025-02-09,20:14:00,Gujarat,Ahmedabad,Mobile Wallet,Merchant Payment,Groceries,1466.95,Success,iOS,SBI,36-45
+TXN000006,2025-02-10,07:55:00,Telangana,Hyderabad,Mobile Wallet,Bill Payment,Entertainment,117.43,Success,iOS,HDFC Bank,36-45
+TXN000169,2025-02-10,08:12:00,Telangana,Warangal,Debit Card,Bill Payment,Food & Dining,116.12,Success,Android,Kotak Mahindra Bank,60+
+TXN000449,2025-02-10,12:39:00,West Bengal,Howrah,Mobile Wallet,Merchant Payment,Transport,88.78,Success,iOS,Axis Bank,60+
+TXN000056,2025-02-11,15:01:00,Telangana,Hyderabad,Credit Card,Merchant Payment,Food & Dining,376.64,Success,Web,SBI,18-25
+TXN000700,2025-02-11,14:53:00,Tamil Nadu,Salem,Mobile Wallet,Bill Payment,Groceries,123.36,Success,Android,Other,60+
+TXN000229,2025-02-12,15:54:00,Maharashtra,Pune,Credit Card,Online Shopping,Food & Dining,72.58,Failed,Android,HDFC Bank,26-35
+TXN000281,2025-02-12,20:34:00,Gujarat,Ahmedabad,Credit Card,P2P Transfer,Shopping,166.25,Success,Android,HDFC Bank,60+
+TXN000834,2025-02-12,09:38:00,Gujarat,Ahmedabad,Net Banking,Merchant Payment,Shopping,68.87,Success,iOS,Axis Bank,36-45
+TXN000916,2025-02-12,22:56:00,Kerala,Thiruvananthapuram,Debit Card,Recharge,Shopping,196.18,Success,Android,Other,18-25
+TXN000978,2025-02-12,04:40:00,Telangana,Hyderabad,Mobile Wallet,P2P Transfer,Food & Dining,13.15,Success,Web,SBI,18-25
+TXN001140,2025-02-12,13:53:00,Maharashtra,Mumbai,UPI,Recharge,Groceries,299.22,Success,Web,ICICI Bank,26-35
+TXN000234,2025-02-13,19:18:00,Gujarat,Ahmedabad,UPI,P2P Transfer,Shopping,77.35,Success,Web,Other,26-35
+TXN000556,2025-02-13,04:41:00,Maharashtra,Pune,Mobile Wallet,Online Shopping,Education,98.31,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000887,2025-02-13,23:18:00,Tamil Nadu,Salem,UPI,Recharge,Transport,266.11,Success,Web,Other,60+
+TXN000602,2025-02-14,13:54:00,Delhi,Rohini,Mobile Wallet,Merchant Payment,Entertainment,59.02,Success,iOS,SBI,46-60
+TXN000713,2025-02-14,04:08:00,Telangana,Hyderabad,Debit Card,P2P Transfer,Groceries,86.06,Success,Android,SBI,26-35
+TXN000908,2025-02-14,03:08:00,Gujarat,Ahmedabad,UPI,Online Shopping,Utilities,313.02,Success,iOS,SBI,18-25
+TXN001024,2025-02-14,22:17:00,Maharashtra,Mumbai,Debit Card,Recharge,Food & Dining,1264.3,Success,Android,Axis Bank,36-45
+TXN000128,2025-02-15,13:54:00,Kerala,Kochi,Debit Card,Recharge,Education,84.24,Success,iOS,ICICI Bank,36-45
+TXN000552,2025-02-15,18:00:00,Kerala,Thiruvananthapuram,Debit Card,Bill Payment,Groceries,127.02,Success,Web,SBI,18-25
+TXN000628,2025-02-15,00:26:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Entertainment,130.87,Success,Android,HDFC Bank,26-35
+TXN000685,2025-02-15,14:12:00,Delhi,Dwarka,Debit Card,P2P Transfer,Education,43.72,Success,Web,ICICI Bank,26-35
+TXN000747,2025-02-15,19:42:00,Kerala,Thiruvananthapuram,Mobile Wallet,Merchant Payment,Education,178.89,Success,Android,Other,46-60
+TXN001144,2025-02-15,03:58:00,West Bengal,Kolkata,Debit Card,P2P Transfer,Transport,168.27,Success,Web,SBI,26-35
+TXN000116,2025-02-16,02:05:00,Karnataka,Mysuru,UPI,Bill Payment,Transport,200.65,Success,Web,Kotak Mahindra Bank,60+
+TXN000517,2025-02-16,03:45:00,Karnataka,Mysuru,Credit Card,P2P Transfer,Education,244.92,Success,Web,Kotak Mahindra Bank,26-35
+TXN000642,2025-02-16,04:54:00,Tamil Nadu,Madurai,Net Banking,Bill Payment,Healthcare,787.62,Success,Web,Other,60+
+TXN000705,2025-02-16,13:51:00,Gujarat,Surat,Net Banking,Merchant Payment,Education,31.29,Success,Android,SBI,60+
+TXN000752,2025-02-16,03:06:00,Telangana,Hyderabad,Credit Card,Merchant Payment,Transport,38.41,Success,Android,HDFC Bank,36-45
+TXN000524,2025-02-17,09:20:00,Tamil Nadu,Madurai,Mobile Wallet,P2P Transfer,Education,262.59,Success,Android,ICICI Bank,46-60
+TXN000623,2025-02-17,10:03:00,Kerala,Kochi,Net Banking,Online Shopping,Utilities,974.6,Success,iOS,HDFC Bank,18-25
+TXN000702,2025-02-17,12:16:00,Gujarat,Ahmedabad,Debit Card,Recharge,Food & Dining,423.69,Success,Android,HDFC Bank,46-60
+TXN000805,2025-02-17,05:06:00,Telangana,Hyderabad,UPI,Online Shopping,Entertainment,96.11,Success,Android,SBI,46-60
+TXN000840,2025-02-17,20:45:00,Karnataka,Mysuru,Mobile Wallet,Online Shopping,Food & Dining,119.82,Success,Android,Axis Bank,26-35
+TXN000020,2025-02-19,21:27:00,Karnataka,Mysuru,Mobile Wallet,Recharge,Entertainment,36.15,Success,Android,Other,18-25
+TXN000322,2025-02-19,00:13:00,Delhi,New Delhi,Credit Card,P2P Transfer,Entertainment,269.12,Success,iOS,Axis Bank,46-60
+TXN000635,2025-02-19,17:37:00,Kerala,Thiruvananthapuram,Debit Card,P2P Transfer,Transport,53.94,Success,iOS,Axis Bank,46-60
+TXN000847,2025-02-19,06:33:00,Tamil Nadu,Chennai,Mobile Wallet,Online Shopping,Shopping,198.18,Failed,iOS,ICICI Bank,60+
+TXN001092,2025-02-19,07:19:00,Telangana,Warangal,Credit Card,P2P Transfer,Education,142.99,Success,iOS,ICICI Bank,26-35
+TXN000269,2025-02-20,20:50:00,Tamil Nadu,Salem,UPI,P2P Transfer,Transport,95.58,Success,Android,Axis Bank,26-35
+TXN000644,2025-02-20,06:58:00,Tamil Nadu,Salem,Credit Card,Online Shopping,Transport,33.01,Success,Android,HDFC Bank,36-45
+TXN000089,2025-02-21,16:58:00,West Bengal,Howrah,UPI,Merchant Payment,Education,87.38,Success,Android,SBI,46-60
+TXN000130,2025-02-22,04:16:00,Delhi,Howrah,Debit Card,Online Shopping,Transport,89.7,Success,Web,SBI,26-35
+TXN000157,2025-02-22,02:20:00,Kerala,Thiruvananthapuram,Credit Card,Recharge,Education,958.89,Success,iOS,ICICI Bank,46-60
+TXN000412,2025-02-22,22:33:00,Kerala,Thiruvananthapuram,Credit Card,Online Shopping,Transport,48.2,Success,iOS,ICICI Bank,60+
+TXN000824,2025-02-22,22:34:00,West Bengal,Kolkata,Credit Card,P2P Transfer,Healthcare,103.25,Pending,Web,Axis Bank,26-35
+TXN000991,2025-02-22,17:17:00,Delhi,Rohini,Net Banking,P2P Transfer,Education,182.8,Success,iOS,ICICI Bank,36-45
+TXN000096,2025-02-24,07:24:00,West Bengal,Howrah,Net Banking,Bill Payment,Shopping,34.35,Success,Web,Axis Bank,36-45
+TXN000439,2025-02-24,03:58:00,Maharashtra,Mumbai,Mobile Wallet,Online Shopping,Groceries,27.02,Success,Web,SBI,46-60
+TXN000246,2025-02-25,07:42:00,Karnataka,Mangaluru,Credit Card,Merchant Payment,Groceries,106.22,Success,Web,Other,46-60
+TXN000526,2025-02-25,18:46:00,Tamil Nadu,Chennai,Mobile Wallet,Online Shopping,Shopping,24.41,Success,iOS,ICICI Bank,60+
+TXN000956,2025-02-25,12:49:00,Maharashtra,Pune,Debit Card,Recharge,Healthcare,453.64,Success,iOS,Kotak Mahindra Bank,46-60
+TXN001069,2025-02-25,17:24:00,Tamil Nadu,Madurai,Net Banking,Recharge,Education,92.97,Success,Web,Kotak Mahindra Bank,36-45
+TXN000148,2025-02-26,09:15:00,Gujarat,Surat,UPI,P2P Transfer,Utilities,39.63,Success,Web,Axis Bank,18-25
+TXN000553,2025-02-26,09:55:00,Kerala,Kochi,Debit Card,Recharge,Education,477.13,Success,Web,Axis Bank,46-60
+TXN000609,2025-02-26,12:23:00,Tamil Nadu,Salem,Net Banking,P2P Transfer,Healthcare,25.06,Success,Web,Kotak Mahindra Bank,18-25
+TXN000896,2025-02-26,06:18:00,Delhi,New Delhi,Mobile Wallet,Recharge,Education,283.92,Success,Android,HDFC Bank,26-35
+TXN001009,2025-02-26,07:07:00,Delhi,New Delhi,UPI,Online Shopping,Shopping,423.92,Success,Web,SBI,36-45
+TXN001017,2025-02-27,08:43:00,West Bengal,Kolkata,Debit Card,Recharge,Utilities,77.37,Success,Android,ICICI Bank,46-60
+TXN001167,2025-02-27,05:27:00,Kerala,Thiruvananthapuram,UPI,Merchant Payment,Groceries,592.45,Success,Web,Kotak Mahindra Bank,36-45
+TXN000075,2025-02-28,17:14:00,Gujarat,Ahmedabad,Credit Card,Merchant Payment,Food & Dining,10.81,Success,iOS,Kotak Mahindra Bank,60+
+TXN000540,2025-02-28,00:39:00,Telangana,Hyderabad,Debit Card,Online Shopping,Healthcare,83.35,Success,iOS,HDFC Bank,36-45
+TXN000755,2025-02-28,08:03:00,Gujarat,Surat,Mobile Wallet,Online Shopping,Education,57.43,Success,Android,Axis Bank,26-35
+TXN000815,2025-02-28,22:58:00,Telangana,Hyderabad,Credit Card,Recharge,Entertainment,416.48,Success,Android,Kotak Mahindra Bank,26-35
+TXN000967,2025-02-28,05:29:00,Kerala,Thiruvananthapuram,Credit Card,Merchant Payment,Transport,75.46,Success,iOS,ICICI Bank,46-60
+TXN000363,2025-03-01,03:54:00,Gujarat,Howrah,UPI,Merchant Payment,Transport,133.12,Success,iOS,Kotak Mahindra Bank,36-45
+TXN000567,2025-03-01,01:10:00,Telangana,Warangal,Mobile Wallet,Recharge,Shopping,19.33,Success,Web,HDFC Bank,46-60
+TXN000719,2025-03-01,15:39:00,West Bengal,Howrah,Mobile Wallet,Recharge,Groceries,103.17,Success,Web,HDFC Bank,46-60
+TXN001105,2025-03-01,05:29:00,Gujarat,Surat,UPI,Bill Payment,Education,449.52,Success,iOS,Axis Bank,60+
+TXN000071,2025-03-02,17:48:00,Delhi,Dwarka,Net Banking,Online Shopping,Utilities,213.02,Success,iOS,Axis Bank,46-60
+TXN001089,2025-03-02,10:57:00,Telangana,Warangal,Net Banking,Online Shopping,Food & Dining,114.54,Pending,Android,SBI,36-45
+TXN000125,2025-03-03,00:31:00,Kerala,Howrah,Debit Card,Merchant Payment,Transport,266.9,Success,Android,Kotak Mahindra Bank,60+
+TXN000631,2025-03-03,08:31:00,Tamil Nadu,Chennai,Net Banking,Bill Payment,Entertainment,27.32,Success,iOS,Other,46-60
+TXN000743,2025-03-03,11:36:00,Karnataka,Mysuru,UPI,Online Shopping,Transport,79.45,Success,iOS,ICICI Bank,36-45
+TXN000902,2025-03-03,04:25:00,Delhi,New Delhi,Credit Card,Merchant Payment,Transport,100.15,Success,Web,HDFC Bank,18-25
+TXN000525,2025-03-04,22:55:00,Maharashtra,Pune,Credit Card,Online Shopping,Education,69.18,Success,Web,ICICI Bank,60+
+TXN000650,2025-03-04,07:53:00,Gujarat,Surat,Mobile Wallet,Bill Payment,Shopping,297.74,Success,Web,Axis Bank,36-45
+TXN000770,2025-03-04,21:33:00,Telangana,Warangal,Mobile Wallet,Bill Payment,Groceries,909.09,Failed,Android,SBI,36-45
+TXN000155,2025-03-05,11:27:00,Telangana,Warangal,Mobile Wallet,Recharge,Healthcare,198.95,Pending,iOS,Other,46-60
+TXN000168,2025-03-05,16:09:00,Tamil Nadu,Madurai,Debit Card,Merchant Payment,Healthcare,989.1,Failed,Android,ICICI Bank,60+
+TXN000894,2025-03-05,15:00:00,Gujarat,Ahmedabad,Credit Card,Merchant Payment,Transport,477.85,Success,iOS,ICICI Bank,46-60
+TXN001072,2025-03-05,09:36:00,Tamil Nadu,Madurai,Credit Card,Merchant Payment,Entertainment,239.14,Success,iOS,SBI,46-60
+TXN000054,2025-03-07,19:34:00,West Bengal,Kolkata,Mobile Wallet,Online Shopping,Groceries,273.6,Success,iOS,HDFC Bank,46-60
+TXN000378,2025-03-07,03:24:00,Maharashtra,Nagpur,Net Banking,Online Shopping,Healthcare,178.28,Success,iOS,Axis Bank,60+
+TXN000853,2025-03-07,15:50:00,Tamil Nadu,Chennai,Credit Card,Online Shopping,Entertainment,78.46,Success,iOS,SBI,46-60
+TXN000931,2025-03-07,05:49:00,Kerala,Thiruvananthapuram,Credit Card,Bill Payment,Entertainment,85.18,Success,Web,Axis Bank,60+
+TXN000527,2025-03-08,19:36:00,Kerala,Thiruvananthapuram,Net Banking,Recharge,Entertainment,29.15,Success,Web,HDFC Bank,36-45
+TXN000099,2025-03-09,02:58:00,Kerala,Thiruvananthapuram,Credit Card,Recharge,Transport,149.17,Success,Web,ICICI Bank,60+
+TXN000355,2025-03-09,06:46:00,Delhi,New Delhi,Net Banking,Online Shopping,Transport,145.62,Success,Web,Other,18-25
+TXN000693,2025-03-09,02:20:00,West Bengal,Howrah,Debit Card,Bill Payment,Food & Dining,50.35,Success,Android,ICICI Bank,36-45
+TXN001088,2025-03-09,16:55:00,Karnataka,Mangaluru,Mobile Wallet,Recharge,Healthcare,188.44,Success,Web,Kotak Mahindra Bank,26-35
+TXN001101,2025-03-09,06:40:00,Telangana,Hyderabad,Net Banking,Merchant Payment,Groceries,402.63,Success,iOS,Kotak Mahindra Bank,60+
+TXN000333,2025-03-10,09:47:00,Delhi,Dwarka,Credit Card,Bill Payment,Education,160.1,Success,Android,HDFC Bank,46-60
+TXN000492,2025-03-11,15:35:00,Maharashtra,Mumbai,Mobile Wallet,Recharge,Utilities,651.93,Success,Web,Kotak Mahindra Bank,26-35
+TXN000505,2025-03-12,09:44:00,Delhi,Rohini,Net Banking,Merchant Payment,Education,77.43,Pending,Android,Other,60+
+TXN000610,2025-03-12,10:15:00,Delhi,Rohini,UPI,Recharge,Utilities,662.52,Success,Android,ICICI Bank,36-45
+TXN000932,2025-03-12,20:58:00,Kerala,Kochi,Mobile Wallet,Recharge,Entertainment,973.75,Success,iOS,Kotak Mahindra Bank,60+
+TXN000999,2025-03-12,18:29:00,Maharashtra,Mumbai,Debit Card,Bill Payment,Transport,83.83,Success,iOS,Other,46-60
+TXN000816,2025-03-13,15:52:00,West Bengal,Howrah,Debit Card,Merchant Payment,Groceries,33.6,Success,Android,ICICI Bank,18-25
+TXN000875,2025-03-13,18:31:00,West Bengal,Howrah,Net Banking,Bill Payment,Utilities,143.58,Success,Web,SBI,26-35
+TXN000559,2025-03-14,23:46:00,Karnataka,Mangaluru,Credit Card,Recharge,Food & Dining,220.18,Success,Web,SBI,26-35
+TXN000757,2025-03-14,11:34:00,Delhi,New Delhi,Debit Card,Online Shopping,Education,243.06,Failed,Web,Axis Bank,18-25
+TXN001125,2025-03-14,09:33:00,Maharashtra,Nagpur,Debit Card,Online Shopping,Healthcare,760.09,nan,iOS,Axis Bank,46-60
+TXN000159,2025-03-15,19:43:00,Tamil Nadu,Salem,UPI,Merchant Payment,Food & Dining,45.09,Success,Web,ICICI Bank,36-45
+TXN000675,2025-03-15,03:11:00,Delhi,New Delhi,Credit Card,Recharge,Education,36.32,Success,Web,SBI,46-60
+TXN000842,2025-03-15,08:47:00,Kerala,Howrah,Mobile Wallet,Bill Payment,Groceries,291.44,Pending,iOS,SBI,18-25
+TXN000921,2025-03-15,02:27:00,Karnataka,Bengaluru,Mobile Wallet,Recharge,Food & Dining,434.25,Success,Android,Other,18-25
+TXN000935,2025-03-15,17:59:00,West Bengal,Howrah,Debit Card,Merchant Payment,Utilities,230.45,Success,Android,SBI,26-35
+TXN000265,2025-03-16,22:20:00,Delhi,New Delhi,Mobile Wallet,Recharge,Transport,115.29,Success,iOS,Other,46-60
+TXN000860,2025-03-16,09:53:00,Kerala,Kochi,Mobile Wallet,Recharge,Transport,279.48,Success,Android,Other,18-25
+TXN000522,2025-03-17,01:41:00,Maharashtra,Pune,UPI,Merchant Payment,Groceries,255.54,Success,Web,ICICI Bank,36-45
+TXN000919,2025-03-17,15:05:00,Kerala,Howrah,Debit Card,Recharge,Transport,94.97,Success,Android,HDFC Bank,60+
+TXN000926,2025-03-17,11:41:00,Gujarat,Surat,Debit Card,Recharge,Food & Dining,32.36,Success,Android,HDFC Bank,18-25
+TXN000181,2025-03-18,19:57:00,West Bengal,Kolkata,Credit Card,Online Shopping,Healthcare,277.46,Success,Web,Other,36-45
+TXN000303,2025-03-18,01:39:00,West Bengal,Kolkata,Credit Card,Recharge,Education,313.34,Failed,iOS,SBI,18-25
+TXN000533,2025-03-18,08:53:00,Karnataka,Bengaluru,Credit Card,Recharge,Transport,138.92,Success,iOS,HDFC Bank,60+
+TXN000707,2025-03-18,04:43:00,Telangana,Warangal,Debit Card,Online Shopping,Education,41.25,Success,Android,Kotak Mahindra Bank,18-25
+TXN000291,2025-03-19,00:59:00,Delhi,Dwarka,UPI,Merchant Payment,Healthcare,120.53,Success,Web,SBI,36-45
+TXN000503,2025-03-19,10:57:00,Delhi,Dwarka,Debit Card,P2P Transfer,Education,36.65,Success,Web,Kotak Mahindra Bank,26-35
+TXN000614,2025-03-19,06:33:00,West Bengal,Howrah,Credit Card,Recharge,Transport,48.16,Success,iOS,Axis Bank,18-25
+TXN000725,2025-03-19,22:55:00,Telangana,Hyderabad,UPI,Recharge,Entertainment,176.07,Failed,Android,SBI,60+
+TXN000963,2025-03-19,14:59:00,Tamil Nadu,Coimbatore,Mobile Wallet,Bill Payment,Food & Dining,180.64,Success,Web,Axis Bank,36-45
+TXN001091,2025-03-19,00:37:00,Karnataka,Mangaluru,Credit Card,Recharge,Education,138.16,Success,Android,Kotak Mahindra Bank,60+
+TXN000141,2025-03-20,05:11:00,Gujarat,Ahmedabad,Mobile Wallet,P2P Transfer,Education,186.32,Success,Web,HDFC Bank,46-60
+TXN000321,2025-03-20,01:23:00,West Bengal,Kolkata,Mobile Wallet,P2P Transfer,Transport,163.53,Success,Web,Kotak Mahindra Bank,46-60
+TXN000118,2025-03-21,21:30:00,Delhi,New Delhi,UPI,Bill Payment,Healthcare,46.12,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000122,2025-03-21,05:48:00,Tamil Nadu,Chennai,Mobile Wallet,Bill Payment,Entertainment,59.78,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000296,2025-03-21,03:10:00,Karnataka,Mysuru,Mobile Wallet,Bill Payment,Education,74.22,Success,iOS,HDFC Bank,46-60
+TXN000807,2025-03-22,03:08:00,Gujarat,Surat,Mobile Wallet,P2P Transfer,Education,185.33,Failed,Android,HDFC Bank,26-35
+TXN000940,2025-03-22,08:05:00,Gujarat,Surat,Debit Card,Merchant Payment,Education,84.43,Success,Android,Axis Bank,26-35
+TXN001052,2025-03-22,09:04:00,Karnataka,Mangaluru,Net Banking,Merchant Payment,Shopping,220.48,Success,Android,Kotak Mahindra Bank,18-25
+TXN000036,2025-03-23,22:06:00,Telangana,Warangal,UPI,Recharge,Utilities,43.78,Success,iOS,ICICI Bank,36-45
+TXN000913,2025-03-23,18:13:00,Tamil Nadu,Chennai,Net Banking,Recharge,Shopping,190.45,Success,Android,ICICI Bank,36-45
+TXN000982,2025-03-23,16:47:00,Tamil Nadu,Howrah,UPI,Merchant Payment,Groceries,227.12,Success,Web,Kotak Mahindra Bank,26-35
+TXN001040,2025-03-23,11:32:00,Tamil Nadu,Coimbatore,Credit Card,Online Shopping,Education,422.88,Success,Android,Other,26-35
+TXN000388,2025-03-24,18:54:00,Maharashtra,Pune,UPI,Bill Payment,Entertainment,968.91,Success,Android,SBI,26-35
+TXN000428,2025-03-24,12:40:00,Tamil Nadu,Chennai,UPI,Merchant Payment,Entertainment,294.73,Failed,iOS,SBI,18-25
+TXN001165,2025-03-24,10:08:00,Tamil Nadu,Salem,Mobile Wallet,P2P Transfer,Entertainment,412.64,Success,Web,Axis Bank,46-60
+TXN000636,2025-03-25,03:13:00,Kerala,Kochi,Net Banking,Merchant Payment,Utilities,28.36,Success,Web,Kotak Mahindra Bank,60+
+TXN000696,2025-03-25,22:29:00,Telangana,Warangal,UPI,Recharge,Groceries,108.9,Success,Web,Kotak Mahindra Bank,46-60
+TXN001155,2025-03-25,16:10:00,Tamil Nadu,Madurai,Net Banking,Online Shopping,Utilities,766.64,Failed,Web,HDFC Bank,26-35
+TXN000100,2025-03-26,08:58:00,Telangana,Warangal,Credit Card,Bill Payment,Food & Dining,117.38,Success,Android,HDFC Bank,26-35
+TXN000203,2025-03-26,10:54:00,Maharashtra,Nagpur,Mobile Wallet,P2P Transfer,Utilities,438.36,Success,iOS,SBI,60+
+TXN000023,2025-03-27,13:31:00,Delhi,Dwarka,Debit Card,Recharge,Groceries,158.78,Success,Android,Axis Bank,36-45
+TXN000092,2025-03-27,22:19:00,West Bengal,Kolkata,UPI,Bill Payment,Groceries,390.98,Success,iOS,Axis Bank,26-35
+TXN000239,2025-03-27,13:17:00,Karnataka,Mysuru,Mobile Wallet,Recharge,Food & Dining,76.57,Success,Android,Other,46-60
+TXN001123,2025-03-27,06:28:00,Karnataka,Bengaluru,UPI,Recharge,Entertainment,281.11,Success,Web,Axis Bank,26-35
+TXN000817,2025-03-28,02:42:00,Gujarat,Ahmedabad,Credit Card,Merchant Payment,Entertainment,193.84,Success,Android,Other,18-25
+TXN000170,2025-03-29,21:39:00,Maharashtra,Nagpur,Net Banking,Bill Payment,Groceries,69.84,Success,Android,SBI,18-25
+TXN000345,2025-03-29,21:56:00,Telangana,Hyderabad,Credit Card,P2P Transfer,Entertainment,92.66,Success,iOS,Other,60+
+TXN000541,2025-03-29,02:19:00,Delhi,Rohini,Credit Card,Online Shopping,Entertainment,342.3,Success,Android,Axis Bank,18-25
+TXN000914,2025-03-29,07:02:00,Karnataka,Mangaluru,Debit Card,Bill Payment,Groceries,718.71,Success,iOS,HDFC Bank,36-45
+TXN001011,2025-03-29,06:22:00,Delhi,Rohini,Credit Card,Online Shopping,Shopping,554.13,Success,Android,HDFC Bank,60+
+TXN000722,2025-03-30,06:10:00,Maharashtra,Nagpur,Mobile Wallet,P2P Transfer,Education,26.84,Failed,iOS,ICICI Bank,26-35
+TXN001139,2025-03-30,15:47:00,West Bengal,Kolkata,UPI,Bill Payment,Groceries,269.72,Success,Web,HDFC Bank,26-35
+TXN001143,2025-03-30,20:47:00,Gujarat,Ahmedabad,Credit Card,Bill Payment,Healthcare,127.73,Success,iOS,Kotak Mahindra Bank,18-25
+TXN001157,2025-03-30,09:19:00,Delhi,New Delhi,Debit Card,Merchant Payment,Utilities,74.58,Success,Web,HDFC Bank,26-35
+TXN000078,2025-03-31,15:33:00,Tamil Nadu,Salem,Credit Card,Merchant Payment,Education,110.06,Success,iOS,SBI,46-60
+TXN000109,2025-03-31,03:42:00,Telangana,Hyderabad,Debit Card,P2P Transfer,Healthcare,192.01,Success,Android,Kotak Mahindra Bank,36-45
+TXN000110,2025-03-31,08:03:00,Tamil Nadu,Coimbatore,Mobile Wallet,Online Shopping,Food & Dining,137.77,Success,iOS,Axis Bank,36-45
+TXN000197,2025-03-31,19:54:00,Delhi,Rohini,Mobile Wallet,Recharge,Healthcare,61.32,Success,Web,SBI,26-35
+TXN000565,2025-03-31,08:50:00,Kerala,Kochi,Mobile Wallet,Merchant Payment,Groceries,493.35,Success,Android,HDFC Bank,60+
+TXN000825,2025-03-31,20:48:00,Kerala,Thiruvananthapuram,Mobile Wallet,P2P Transfer,Healthcare,95.06,Success,Web,Axis Bank,46-60
+TXN001189,2025-03-31,15:59:00,Delhi,Rohini,Debit Card,Bill Payment,Transport,257.25,Success,Android,HDFC Bank,60+
+TXN001200,2025-03-31,15:57:00,West Bengal,Howrah,UPI,P2P Transfer,Healthcare,580.65,Success,Android,HDFC Bank,26-35
+TXN000194,2025-04-01,01:53:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Shopping,42.7,Success,Android,ICICI Bank,60+
+TXN000310,2025-04-01,10:03:00,Kerala,Kochi,Debit Card,Online Shopping,Transport,121.24,Success,Web,ICICI Bank,18-25
+TXN000313,2025-04-01,23:00:00,Maharashtra,Nagpur,Net Banking,Recharge,Transport,338.8,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000337,2025-04-01,15:37:00,West Bengal,Howrah,Credit Card,Merchant Payment,Shopping,65.01,Success,Web,SBI,36-45
+TXN000068,2025-04-02,09:00:00,Kerala,Kochi,Credit Card,P2P Transfer,Groceries,404.86,Success,Web,HDFC Bank,46-60
+TXN000426,2025-04-02,11:35:00,West Bengal,Howrah,Credit Card,Bill Payment,Healthcare,583.26,Success,iOS,Other,26-35
+TXN001130,2025-04-02,08:36:00,Telangana,Hyderabad,Debit Card,Online Shopping,Education,206.18,Success,Web,Kotak Mahindra Bank,36-45
+TXN001164,2025-04-02,05:25:00,Gujarat,Ahmedabad,Mobile Wallet,P2P Transfer,Healthcare,28.63,Success,Android,Other,46-60
+TXN000366,2025-04-03,19:24:00,West Bengal,Howrah,Net Banking,P2P Transfer,Transport,99.36,Success,iOS,SBI,46-60
+TXN000417,2025-04-03,16:25:00,Telangana,Hyderabad,Credit Card,P2P Transfer,Utilities,700.05,Success,iOS,Axis Bank,26-35
+TXN000465,2025-04-03,06:57:00,West Bengal,Howrah,Mobile Wallet,P2P Transfer,Food & Dining,132.64,Pending,Web,HDFC Bank,46-60
+TXN000515,2025-04-03,18:57:00,Karnataka,Mangaluru,Net Banking,Merchant Payment,Education,83.37,Success,iOS,SBI,26-35
+TXN000920,2025-04-03,20:18:00,West Bengal,Kolkata,Credit Card,Merchant Payment,Transport,180.2,Success,Web,Kotak Mahindra Bank,26-35
+TXN000981,2025-04-03,09:00:00,Maharashtra,Mumbai,Net Banking,Online Shopping,Groceries,325.64,Success,iOS,ICICI Bank,46-60
+TXN000618,2025-04-04,05:53:00,Telangana,Hyderabad,Debit Card,Merchant Payment,Food & Dining,306.67,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000684,2025-04-04,12:56:00,Kerala,Thiruvananthapuram,Net Banking,Merchant Payment,Groceries,242.11,Failed,Web,Other,60+
+TXN000390,2025-04-05,16:04:00,Delhi,Rohini,Debit Card,Recharge,Education,83.35,Success,Android,HDFC Bank,36-45
+TXN000236,2025-04-06,13:28:00,Karnataka,Mangaluru,Net Banking,Online Shopping,Education,279.76,Success,Android,ICICI Bank,60+
+TXN000893,2025-04-06,12:22:00,Kerala,Kochi,UPI,Recharge,Entertainment,431.24,Success,Web,Kotak Mahindra Bank,26-35
+TXN000461,2025-04-07,02:11:00,Gujarat,Ahmedabad,Credit Card,P2P Transfer,Entertainment,1058.62,Success,iOS,Other,60+
+TXN000462,2025-04-07,10:01:00,West Bengal,Kolkata,UPI,Online Shopping,Groceries,153.74,Success,Android,ICICI Bank,36-45
+TXN000615,2025-04-07,02:01:00,Telangana,Hyderabad,Net Banking,Bill Payment,Education,1712.57,Success,Web,Other,36-45
+TXN000801,2025-04-07,13:49:00,Kerala,Thiruvananthapuram,Debit Card,Recharge,Entertainment,379.28,Success,Android,ICICI Bank,26-35
+TXN000876,2025-04-07,04:19:00,Tamil Nadu,Coimbatore,Debit Card,Online Shopping,Utilities,892.97,Success,iOS,HDFC Bank,60+
+TXN000218,2025-04-08,23:07:00,Delhi,Rohini,Mobile Wallet,Merchant Payment,Utilities,117.12,Success,Android,Kotak Mahindra Bank,36-45
+TXN000475,2025-04-08,16:43:00,Gujarat,Surat,Net Banking,Merchant Payment,Shopping,768.91,Success,Web,ICICI Bank,18-25
+TXN000480,2025-04-08,06:33:00,Gujarat,Ahmedabad,Net Banking,Merchant Payment,Education,454.67,Success,Web,Kotak Mahindra Bank,36-45
+TXN000494,2025-04-08,10:22:00,Kerala,Kochi,Credit Card,Merchant Payment,Healthcare,62.72,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000789,2025-04-08,06:34:00,Maharashtra,Pune,Credit Card,Bill Payment,Education,138.36,Pending,Android,SBI,60+
+TXN001049,2025-04-08,06:36:00,West Bengal,Howrah,Net Banking,Bill Payment,Healthcare,649.72,Success,Web,HDFC Bank,18-25
+TXN000067,2025-04-09,06:47:00,Maharashtra,Pune,Credit Card,Online Shopping,Shopping,138.1,Pending,Android,ICICI Bank,26-35
+TXN000196,2025-04-09,03:21:00,Telangana,Hyderabad,Mobile Wallet,Bill Payment,Transport,218.18,Success,iOS,ICICI Bank,60+
+TXN000327,2025-04-09,04:02:00,Delhi,Dwarka,UPI,Recharge,Utilities,472.53,Pending,Web,HDFC Bank,60+
+TXN000749,2025-04-09,19:34:00,Karnataka,Mangaluru,UPI,Online Shopping,Utilities,80.52,Success,Web,SBI,18-25
+TXN000973,2025-04-09,19:41:00,Gujarat,Surat,UPI,Online Shopping,Education,344.0,Success,Web,Axis Bank,26-35
+TXN000985,2025-04-09,08:11:00,Gujarat,Ahmedabad,Credit Card,Recharge,Food & Dining,147.88,Success,Web,ICICI Bank,26-35
+TXN000595,2025-04-10,03:50:00,Tamil Nadu,Coimbatore,Mobile Wallet,Recharge,Transport,418.86,Success,Android,SBI,36-45
+TXN000992,2025-04-11,01:51:00,Delhi,Dwarka,Mobile Wallet,P2P Transfer,Shopping,19.26,Success,Android,Axis Bank,26-35
+TXN000045,2025-04-12,04:01:00,Delhi,New Delhi,Debit Card,Recharge,Food & Dining,33.83,Success,Web,Kotak Mahindra Bank,26-35
+TXN000059,2025-04-12,02:37:00,Gujarat,Ahmedabad,UPI,Bill Payment,Transport,206.7,Success,Web,SBI,36-45
+TXN000180,2025-04-12,19:32:00,Maharashtra,Pune,Net Banking,P2P Transfer,Groceries,2253.34,Success,Web,ICICI Bank,46-60
+TXN000301,2025-04-12,20:28:00,Karnataka,Bengaluru,UPI,Bill Payment,Food & Dining,64.78,Success,iOS,SBI,26-35
+TXN000786,2025-04-12,06:18:00,Tamil Nadu,Coimbatore,Debit Card,Bill Payment,Transport,437.37,Success,Web,HDFC Bank,26-35
+TXN000901,2025-04-12,15:45:00,Gujarat,Ahmedabad,Net Banking,Online Shopping,Transport,214.58,Success,Web,ICICI Bank,26-35
+TXN000961,2025-04-12,11:26:00,Maharashtra,Pune,Mobile Wallet,Online Shopping,Transport,282.23,Failed,iOS,ICICI Bank,60+
+TXN000057,2025-04-13,00:39:00,Delhi,New Delhi,Debit Card,Merchant Payment,Entertainment,64.12,Success,Web,HDFC Bank,46-60
+TXN000438,2025-04-13,07:47:00,West Bengal,Kolkata,Credit Card,Merchant Payment,Utilities,37.33,Success,Android,Kotak Mahindra Bank,36-45
+TXN000539,2025-04-13,06:18:00,Kerala,Thiruvananthapuram,Net Banking,Bill Payment,Entertainment,405.98,Success,iOS,HDFC Bank,26-35
+TXN001147,2025-04-13,05:18:00,Telangana,Warangal,Mobile Wallet,Bill Payment,Food & Dining,49.59,Success,Web,ICICI Bank,36-45
+TXN000654,2025-04-14,09:42:00,West Bengal,Howrah,Mobile Wallet,Online Shopping,Shopping,49.08,Success,Web,Kotak Mahindra Bank,18-25
+TXN000809,2025-04-14,00:09:00,Telangana,Warangal,UPI,Recharge,Utilities,521.0,Success,Web,Axis Bank,46-60
+TXN001047,2025-04-14,23:10:00,Delhi,Dwarka,Net Banking,Merchant Payment,Food & Dining,284.95,Success,Web,Other,18-25
+TXN000497,2025-04-15,17:33:00,Delhi,Dwarka,Net Banking,Recharge,Transport,52.6,Success,Web,SBI,46-60
+TXN000537,2025-04-16,23:02:00,Maharashtra,Pune,Mobile Wallet,Online Shopping,Food & Dining,62.78,Success,Android,Other,60+
+TXN000806,2025-04-16,07:18:00,Telangana,Hyderabad,Mobile Wallet,P2P Transfer,Healthcare,108.94,Success,Android,ICICI Bank,46-60
+TXN000478,2025-04-17,20:31:00,Tamil Nadu,Chennai,Mobile Wallet,P2P Transfer,Healthcare,202.6,Success,iOS,ICICI Bank,18-25
+TXN000949,2025-04-17,19:38:00,Delhi,New Delhi,Debit Card,Online Shopping,Entertainment,141.8,Success,Android,HDFC Bank,36-45
+TXN001119,2025-04-17,15:37:00,Maharashtra,Mumbai,UPI,Merchant Payment,Education,181.47,Success,iOS,Kotak Mahindra Bank,60+
+TXN000007,2025-04-18,21:17:00,Kerala,Kochi,Net Banking,Merchant Payment,Utilities,719.97,Success,iOS,ICICI Bank,60+
+TXN000596,2025-04-18,13:16:00,Telangana,Warangal,Mobile Wallet,Recharge,Groceries,89.12,Success,Android,Kotak Mahindra Bank,26-35
+TXN000791,2025-04-18,23:05:00,West Bengal,Howrah,Net Banking,P2P Transfer,Transport,228.06,Success,Web,Kotak Mahindra Bank,36-45
+TXN001131,2025-04-18,05:00:00,West Bengal,Kolkata,Debit Card,P2P Transfer,Transport,204.66,Success,iOS,SBI,36-45
+TXN000009,2025-04-19,20:31:00,Kerala,Howrah,Mobile Wallet,Merchant Payment,Shopping,92.81,Success,Web,Kotak Mahindra Bank,60+
+TXN000063,2025-04-19,11:51:00,West Bengal,Howrah,Credit Card,Bill Payment,Shopping,49.09,Success,Web,HDFC Bank,18-25
+TXN000401,2025-04-19,13:57:00,Kerala,Kochi,Debit Card,Merchant Payment,Utilities,30.13,Success,iOS,HDFC Bank,18-25
+TXN001183,2025-04-19,03:36:00,Delhi,Dwarka,Debit Card,Merchant Payment,Education,371.79,Success,iOS,HDFC Bank,46-60
+TXN000589,2025-04-20,01:37:00,Kerala,Kochi,Credit Card,P2P Transfer,Food & Dining,340.47,Success,iOS,HDFC Bank,36-45
+TXN000735,2025-04-20,02:32:00,Telangana,Warangal,Net Banking,Bill Payment,Transport,415.36,Success,Web,Kotak Mahindra Bank,36-45
+TXN000822,2025-04-20,03:22:00,Delhi,Dwarka,Debit Card,P2P Transfer,Education,607.5,Success,Android,Axis Bank,26-35
+TXN000990,2025-04-20,14:36:00,Kerala,Thiruvananthapuram,Mobile Wallet,Online Shopping,Food & Dining,152.46,Success,Web,HDFC Bank,60+
+TXN000535,2025-04-21,16:19:00,Telangana,Hyderabad,UPI,Bill Payment,Groceries,77.34,Success,Android,Axis Bank,60+
+TXN000577,2025-04-22,19:41:00,Gujarat,Ahmedabad,Mobile Wallet,Bill Payment,Food & Dining,187.84,Success,Android,Kotak Mahindra Bank,36-45
+TXN001145,2025-04-22,20:23:00,Tamil Nadu,Salem,UPI,Merchant Payment,Shopping,124.83,Success,Web,HDFC Bank,26-35
+TXN000003,2025-04-23,14:37:00,Gujarat,Surat,UPI,Merchant Payment,Education,283.64,Success,Android,HDFC Bank,36-45
+TXN000307,2025-04-23,18:54:00,Tamil Nadu,Salem,Credit Card,Merchant Payment,Transport,532.54,Success,iOS,Other,36-45
+TXN000460,2025-04-23,08:05:00,Gujarat,Surat,Debit Card,Online Shopping,Shopping,44.8,Success,Web,Kotak Mahindra Bank,36-45
+TXN000823,2025-04-23,02:42:00,West Bengal,Howrah,Net Banking,Bill Payment,Groceries,1478.67,Success,Android,Axis Bank,36-45
+TXN000917,2025-04-23,23:17:00,Kerala,Kochi,Credit Card,P2P Transfer,Food & Dining,272.57,Success,Web,Axis Bank,36-45
+TXN000145,2025-04-24,14:56:00,Karnataka,Mysuru,UPI,Recharge,Groceries,192.46,Success,iOS,HDFC Bank,46-60
+TXN000429,2025-04-24,11:05:00,Telangana,Hyderabad,Mobile Wallet,Recharge,Shopping,427.7,Success,Web,SBI,26-35
+TXN001161,2025-04-24,19:11:00,Tamil Nadu,Coimbatore,Credit Card,Bill Payment,Healthcare,12.19,Success,Android,Kotak Mahindra Bank,60+
+TXN000037,2025-04-25,00:42:00,Delhi,New Delhi,Mobile Wallet,Bill Payment,Shopping,182.89,Success,iOS,ICICI Bank,60+
+TXN000289,2025-04-25,16:02:00,Maharashtra,Pune,UPI,Recharge,Shopping,196.56,Success,iOS,ICICI Bank,18-25
+TXN000373,2025-04-25,14:21:00,Tamil Nadu,Salem,Credit Card,Recharge,Food & Dining,633.43,Success,Web,HDFC Bank,18-25
+TXN000687,2025-04-25,22:13:00,Karnataka,Bengaluru,Credit Card,Bill Payment,Entertainment,116.71,Success,iOS,HDFC Bank,60+
+TXN001067,2025-04-25,06:24:00,Tamil Nadu,Coimbatore,Mobile Wallet,Online Shopping,Groceries,40.66,Success,Android,Kotak Mahindra Bank,36-45
+TXN000140,2025-04-26,04:09:00,Delhi,New Delhi,Credit Card,P2P Transfer,Groceries,43.34,Success,Web,HDFC Bank,60+
+TXN000800,2025-04-27,23:47:00,Delhi,New Delhi,Mobile Wallet,Merchant Payment,Entertainment,152.9,Success,iOS,ICICI Bank,18-25
+TXN000209,2025-04-28,07:29:00,Gujarat,Surat,Debit Card,Bill Payment,Utilities,248.4,Failed,Web,SBI,18-25
+TXN000419,2025-04-28,12:24:00,Karnataka,Bengaluru,UPI,P2P Transfer,Utilities,482.65,Success,Web,Other,46-60
+TXN000422,2025-04-28,15:50:00,Gujarat,Surat,Credit Card,Online Shopping,Food & Dining,858.63,Success,iOS,Axis Bank,26-35
+TXN000427,2025-04-28,14:50:00,Karnataka,Mangaluru,Debit Card,P2P Transfer,Utilities,56.55,Success,iOS,Kotak Mahindra Bank,60+
+TXN000598,2025-04-28,03:20:00,Kerala,Kochi,UPI,Merchant Payment,Education,55.77,Success,iOS,HDFC Bank,18-25
+TXN000795,2025-04-28,18:02:00,Kerala,Thiruvananthapuram,Net Banking,Online Shopping,Healthcare,50.35,Success,iOS,Axis Bank,46-60
+TXN000074,2025-04-29,09:45:00,Tamil Nadu,Madurai,Mobile Wallet,P2P Transfer,Transport,709.56,Failed,Web,Kotak Mahindra Bank,26-35
+TXN000544,2025-04-29,07:09:00,West Bengal,Howrah,Credit Card,Recharge,Transport,627.39,Success,Web,ICICI Bank,36-45
+TXN000718,2025-04-29,22:03:00,West Bengal,Kolkata,Mobile Wallet,Online Shopping,Transport,172.48,Success,iOS,Other,46-60
+TXN001051,2025-04-29,01:38:00,West Bengal,Howrah,UPI,Merchant Payment,Shopping,79.4,Failed,iOS,Axis Bank,36-45
+TXN001095,2025-04-29,21:17:00,Karnataka,Bengaluru,UPI,Merchant Payment,Transport,308.78,Success,Android,Kotak Mahindra Bank,60+
+TXN000108,2025-04-30,10:49:00,Delhi,New Delhi,Net Banking,P2P Transfer,Shopping,176.72,Success,Android,HDFC Bank,60+
+TXN000486,2025-04-30,08:51:00,Delhi,Dwarka,UPI,Online Shopping,Education,35.79,Success,Android,Other,18-25
+TXN000857,2025-04-30,07:16:00,Gujarat,Ahmedabad,Credit Card,P2P Transfer,Food & Dining,64.56,Success,Web,Kotak Mahindra Bank,26-35
+TXN001075,2025-04-30,03:41:00,Tamil Nadu,Chennai,Debit Card,Online Shopping,Entertainment,401.93,Success,Android,Kotak Mahindra Bank,26-35
+TXN000104,2025-05-01,17:08:00,Karnataka,Mysuru,Mobile Wallet,Bill Payment,Education,66.53,Success,Web,HDFC Bank,46-60
+TXN000660,2025-05-01,20:19:00,Delhi,Rohini,Mobile Wallet,P2P Transfer,Shopping,128.46,Success,Android,SBI,60+
+TXN000691,2025-05-01,15:58:00,Kerala,Thiruvananthapuram,Net Banking,Online Shopping,Groceries,103.44,Success,Web,Kotak Mahindra Bank,46-60
+TXN000035,2025-05-02,05:51:00,Maharashtra,Mumbai,Mobile Wallet,P2P Transfer,Transport,337.83,Success,iOS,Axis Bank,26-35
+TXN000262,2025-05-02,06:51:00,Karnataka,Mangaluru,Net Banking,Bill Payment,Education,139.84,Success,Android,HDFC Bank,26-35
+TXN000443,2025-05-02,08:30:00,Telangana,Warangal,Credit Card,Merchant Payment,Entertainment,18.78,Success,iOS,Other,36-45
+TXN000073,2025-05-03,05:35:00,Maharashtra,Mumbai,Debit Card,P2P Transfer,Education,143.19,Success,Web,Axis Bank,36-45
+TXN000547,2025-05-03,19:15:00,Gujarat,Ahmedabad,Mobile Wallet,Recharge,Food & Dining,264.3,Success,Web,Kotak Mahindra Bank,46-60
+TXN000977,2025-05-03,20:57:00,Maharashtra,Mumbai,Credit Card,Merchant Payment,Utilities,94.41,Success,iOS,ICICI Bank,18-25
+TXN000150,2025-05-04,18:26:00,Kerala,Kochi,UPI,Online Shopping,Healthcare,199.73,Success,Web,Kotak Mahindra Bank,60+
+TXN000504,2025-05-04,18:09:00,Gujarat,Surat,Credit Card,Online Shopping,Healthcare,260.6,Success,Android,HDFC Bank,26-35
+TXN000605,2025-05-04,02:35:00,West Bengal,Kolkata,Mobile Wallet,Merchant Payment,Transport,224.4,Success,Android,Other,18-25
+TXN000216,2025-05-05,08:13:00,Gujarat,Surat,UPI,Recharge,Healthcare,317.02,Success,Web,HDFC Bank,18-25
+TXN000416,2025-05-05,01:08:00,Tamil Nadu,Coimbatore,Debit Card,Online Shopping,Groceries,70.21,Failed,Android,SBI,26-35
+TXN000469,2025-05-05,00:02:00,Gujarat,Surat,Net Banking,Merchant Payment,Healthcare,87.31,Success,Android,HDFC Bank,46-60
+TXN000854,2025-05-05,06:10:00,Delhi,Rohini,UPI,P2P Transfer,Education,487.37,Pending,Android,HDFC Bank,36-45
+TXN000062,2025-05-06,02:17:00,Kerala,Thiruvananthapuram,Debit Card,Recharge,Education,123.27,Success,iOS,ICICI Bank,26-35
+TXN000172,2025-05-06,21:25:00,West Bengal,Howrah,Mobile Wallet,P2P Transfer,Groceries,65.64,Success,iOS,Axis Bank,46-60
+TXN000287,2025-05-06,01:30:00,Tamil Nadu,Madurai,Mobile Wallet,Merchant Payment,Transport,127.51,Failed,Android,Kotak Mahindra Bank,46-60
+TXN000954,2025-05-06,22:52:00,Tamil Nadu,Chennai,Debit Card,P2P Transfer,Shopping,628.77,Success,Web,Axis Bank,18-25
+TXN000989,2025-05-06,02:13:00,Kerala,Thiruvananthapuram,Credit Card,Merchant Payment,Healthcare,118.99,Success,iOS,Other,18-25
+TXN001018,2025-05-06,18:47:00,Tamil Nadu,Salem,Credit Card,Merchant Payment,Food & Dining,91.48,Success,iOS,Other,18-25
+TXN001100,2025-05-06,04:37:00,Tamil Nadu,Salem,Debit Card,Merchant Payment,Shopping,209.87,Success,iOS,HDFC Bank,46-60
+TXN001191,2025-05-06,14:46:00,Maharashtra,Mumbai,UPI,P2P Transfer,Education,164.91,Success,iOS,Axis Bank,18-25
+TXN000405,2025-05-07,07:45:00,Kerala,Thiruvananthapuram,Credit Card,Bill Payment,Transport,94.63,Success,iOS,Axis Bank,46-60
+TXN000466,2025-05-07,23:02:00,West Bengal,Kolkata,Mobile Wallet,P2P Transfer,Utilities,118.99,Success,Web,ICICI Bank,36-45
+TXN000603,2025-05-07,10:27:00,Delhi,Rohini,Debit Card,Online Shopping,Transport,354.11,Failed,Android,Axis Bank,18-25
+TXN000175,2025-05-08,05:52:00,Gujarat,Surat,Net Banking,Bill Payment,Utilities,195.72,Success,iOS,Kotak Mahindra Bank,46-60
+TXN001062,2025-05-09,17:13:00,Karnataka,Mysuru,Credit Card,Merchant Payment,Entertainment,8.6,Success,iOS,Kotak Mahindra Bank,36-45
+TXN000137,2025-05-10,23:54:00,Telangana,Hyderabad,Credit Card,P2P Transfer,Transport,67.81,Failed,iOS,Other,46-60
+TXN000841,2025-05-10,22:19:00,Gujarat,Surat,Net Banking,Bill Payment,Education,141.25,Success,Web,SBI,18-25
+TXN000906,2025-05-10,15:23:00,Maharashtra,Pune,Mobile Wallet,P2P Transfer,Food & Dining,155.47,Success,Web,Kotak Mahindra Bank,26-35
+TXN000205,2025-05-11,00:47:00,Gujarat,Ahmedabad,Net Banking,P2P Transfer,Groceries,37.42,Success,Web,SBI,60+
+TXN000498,2025-05-11,05:03:00,Tamil Nadu,Madurai,Debit Card,Online Shopping,Shopping,122.69,Success,Web,SBI,18-25
+TXN000768,2025-05-13,18:54:00,Maharashtra,Mumbai,Net Banking,Bill Payment,Utilities,872.01,Success,Android,Other,60+
+TXN000845,2025-05-13,13:28:00,Delhi,Rohini,Net Banking,P2P Transfer,Transport,175.29,Success,Android,Axis Bank,18-25
+TXN000998,2025-05-13,01:07:00,Tamil Nadu,Chennai,Credit Card,P2P Transfer,Shopping,281.7,Success,Web,Axis Bank,36-45
+TXN001076,2025-05-13,08:01:00,Tamil Nadu,Madurai,Net Banking,P2P Transfer,Utilities,90.58,Success,Android,Kotak Mahindra Bank,46-60
+TXN000199,2025-05-14,20:23:00,Tamil Nadu,Coimbatore,UPI,P2P Transfer,Entertainment,157.31,Success,iOS,Other,60+
+TXN000318,2025-05-14,03:04:00,Kerala,Thiruvananthapuram,Debit Card,Recharge,Transport,108.82,Success,Web,SBI,36-45
+TXN000425,2025-05-14,17:27:00,Telangana,Warangal,Net Banking,Bill Payment,Education,282.98,Success,iOS,Kotak Mahindra Bank,60+
+TXN000619,2025-05-14,11:11:00,West Bengal,Kolkata,Net Banking,P2P Transfer,Healthcare,240.09,Pending,Android,ICICI Bank,46-60
+TXN000839,2025-05-14,19:29:00,Maharashtra,Nagpur,Debit Card,Bill Payment,Utilities,397.15,Success,Web,HDFC Bank,18-25
+TXN001107,2025-05-14,21:20:00,Kerala,Thiruvananthapuram,Mobile Wallet,Recharge,Education,273.9,Success,Android,ICICI Bank,46-60
+TXN001150,2025-05-14,01:59:00,West Bengal,Kolkata,Net Banking,Merchant Payment,Entertainment,63.63,Success,Web,ICICI Bank,36-45
+TXN000013,2025-05-15,16:48:00,Tamil Nadu,Coimbatore,Net Banking,P2P Transfer,Shopping,189.04,Success,Web,Kotak Mahindra Bank,26-35
+TXN000162,2025-05-15,08:45:00,Karnataka,Mysuru,Debit Card,Online Shopping,Shopping,326.06,Success,iOS,HDFC Bank,18-25
+TXN001053,2025-05-15,20:01:00,West Bengal,Kolkata,Credit Card,Recharge,Shopping,243.24,Success,Android,HDFC Bank,26-35
+TXN001001,2025-05-16,09:45:00,Karnataka,Bengaluru,Credit Card,Online Shopping,Utilities,601.46,Success,Web,HDFC Bank,18-25
+TXN000383,2025-05-17,05:18:00,Delhi,Rohini,Credit Card,Merchant Payment,Groceries,17.75,Success,iOS,HDFC Bank,60+
+TXN001177,2025-05-17,14:38:00,Telangana,Warangal,UPI,Merchant Payment,Utilities,27.3,Success,iOS,HDFC Bank,18-25
+TXN000756,2025-05-18,17:37:00,Tamil Nadu,Chennai,Debit Card,Online Shopping,Transport,2063.96,Success,iOS,Axis Bank,18-25
+TXN000230,2025-05-19,01:59:00,West Bengal,Kolkata,Credit Card,Online Shopping,Groceries,292.83,Success,iOS,SBI,26-35
+TXN000451,2025-05-19,14:49:00,Gujarat,Surat,Net Banking,Online Shopping,Entertainment,139.4,Success,Android,SBI,26-35
+TXN000942,2025-05-19,03:06:00,Delhi,New Delhi,Mobile Wallet,Online Shopping,Healthcare,355.12,Success,iOS,HDFC Bank,60+
+TXN000123,2025-05-20,06:48:00,Gujarat,Ahmedabad,Credit Card,Recharge,Food & Dining,603.53,Success,Web,Kotak Mahindra Bank,46-60
+TXN000761,2025-05-20,07:42:00,West Bengal,Howrah,Credit Card,Merchant Payment,Entertainment,83.46,Failed,iOS,SBI,26-35
+TXN001113,2025-05-20,23:07:00,Tamil Nadu,Salem,Mobile Wallet,Merchant Payment,Shopping,354.27,Success,Android,SBI,60+
+TXN000213,2025-05-21,01:35:00,Telangana,Hyderabad,Mobile Wallet,Online Shopping,Entertainment,385.29,Success,iOS,Other,46-60
+TXN000336,2025-05-21,11:52:00,Delhi,Dwarka,Net Banking,Recharge,Food & Dining,128.12,Success,Android,ICICI Bank,46-60
+TXN000379,2025-05-21,12:21:00,Delhi,Dwarka,Mobile Wallet,Merchant Payment,Transport,1325.84,Success,Web,Other,60+
+TXN000984,2025-05-21,15:12:00,Telangana,Hyderabad,Credit Card,Online Shopping,Shopping,141.5,Success,iOS,Axis Bank,60+
+TXN001172,2025-05-21,11:29:00,Gujarat,Ahmedabad,Net Banking,Online Shopping,Entertainment,196.6,Success,iOS,ICICI Bank,18-25
+TXN000342,2025-05-22,20:20:00,Kerala,Thiruvananthapuram,Credit Card,Bill Payment,Utilities,189.37,Success,Android,SBI,60+
+TXN001020,2025-05-22,09:12:00,Gujarat,Ahmedabad,Net Banking,Online Shopping,Healthcare,226.82,Success,Android,Axis Bank,46-60
+TXN000019,2025-05-23,21:31:00,Delhi,New Delhi,Net Banking,Merchant Payment,Entertainment,59.86,Success,iOS,Axis Bank,26-35
+TXN000855,2025-05-24,07:46:00,Gujarat,Surat,Mobile Wallet,P2P Transfer,Transport,614.31,Failed,Web,Other,46-60
+TXN001064,2025-05-24,02:13:00,West Bengal,Kolkata,Net Banking,Merchant Payment,Shopping,26.06,Success,Android,SBI,36-45
+TXN000031,2025-05-25,19:13:00,Telangana,Warangal,Debit Card,Bill Payment,Entertainment,81.31,Success,Android,SBI,46-60
+TXN000136,2025-05-25,12:26:00,Kerala,Thiruvananthapuram,Net Banking,P2P Transfer,Healthcare,699.2,Success,Android,Kotak Mahindra Bank,46-60
+TXN000359,2025-05-25,03:50:00,Karnataka,Bengaluru,Mobile Wallet,Merchant Payment,Utilities,204.94,Success,Web,HDFC Bank,36-45
+TXN000688,2025-05-25,23:43:00,Delhi,New Delhi,Mobile Wallet,Merchant Payment,Education,102.02,Success,Android,ICICI Bank,36-45
+TXN000979,2025-05-25,08:57:00,Maharashtra,Mumbai,UPI,P2P Transfer,Entertainment,30.45,Success,Android,Axis Bank,18-25
+TXN001078,2025-05-25,04:01:00,Gujarat,Surat,Net Banking,Bill Payment,Healthcare,96.73,Pending,Web,ICICI Bank,46-60
+TXN000423,2025-05-26,19:56:00,Karnataka,Mangaluru,Mobile Wallet,Bill Payment,Utilities,115.7,Success,Web,SBI,60+
+TXN000454,2025-05-26,14:40:00,Delhi,New Delhi,Debit Card,Online Shopping,Transport,245.68,Success,Web,ICICI Bank,36-45
+TXN000572,2025-05-26,08:12:00,Delhi,New Delhi,UPI,Online Shopping,Food & Dining,793.49,Success,Web,Other,26-35
+TXN000658,2025-05-26,10:03:00,Kerala,Kochi,Net Banking,P2P Transfer,Transport,144.88,Success,iOS,ICICI Bank,60+
+TXN000703,2025-05-26,20:48:00,Gujarat,Ahmedabad,UPI,Bill Payment,Entertainment,73.38,Success,Web,ICICI Bank,60+
+TXN001094,2025-05-26,05:07:00,Kerala,Thiruvananthapuram,Credit Card,Recharge,Entertainment,156.33,Success,Android,ICICI Bank,36-45
+TXN001182,2025-05-26,17:47:00,Tamil Nadu,Salem,Debit Card,Recharge,Transport,597.05,Success,Android,SBI,46-60
+TXN000024,2025-05-27,13:44:00,West Bengal,Howrah,Debit Card,Merchant Payment,Shopping,35.7,Success,Android,Kotak Mahindra Bank,60+
+TXN000082,2025-05-28,14:56:00,Maharashtra,Nagpur,Mobile Wallet,P2P Transfer,Groceries,212.11,Pending,Web,HDFC Bank,26-35
+TXN001021,2025-05-28,03:00:00,Kerala,Thiruvananthapuram,Debit Card,Recharge,Transport,250.34,Success,iOS,Kotak Mahindra Bank,60+
+TXN000398,2025-05-29,21:19:00,Karnataka,Mangaluru,UPI,Bill Payment,Entertainment,574.71,Success,Web,SBI,46-60
+TXN000629,2025-05-29,17:31:00,Gujarat,Ahmedabad,Credit Card,Online Shopping,Shopping,156.92,Success,Web,Axis Bank,26-35
+TXN001111,2025-05-29,05:58:00,Delhi,Dwarka,Credit Card,Recharge,Utilities,122.65,Success,Android,SBI,18-25
+TXN000084,2025-05-30,16:45:00,West Bengal,Howrah,Mobile Wallet,Recharge,Entertainment,88.39,Success,Web,HDFC Bank,46-60
+TXN001116,2025-05-30,13:05:00,Gujarat,Ahmedabad,Mobile Wallet,Online Shopping,Shopping,213.78,Success,Web,Kotak Mahindra Bank,60+
+TXN001181,2025-05-30,10:28:00,Telangana,Warangal,UPI,Merchant Payment,Transport,177.66,Success,Web,Axis Bank,46-60
+TXN000716,2025-05-31,18:53:00,Delhi,Dwarka,UPI,Bill Payment,Groceries,447.33,Success,Web,Axis Bank,46-60
+TXN000797,2025-05-31,16:32:00,Karnataka,Mangaluru,UPI,Bill Payment,Utilities,142.66,Success,Android,ICICI Bank,18-25
+TXN000891,2025-05-31,08:13:00,West Bengal,Howrah,Net Banking,Recharge,Utilities,337.13,Failed,Web,Kotak Mahindra Bank,18-25
+TXN000988,2025-05-31,19:52:00,Gujarat,Surat,Mobile Wallet,P2P Transfer,Food & Dining,356.87,Success,iOS,Axis Bank,26-35
+TXN001170,2025-05-31,11:26:00,Maharashtra,Mumbai,Mobile Wallet,Bill Payment,Shopping,348.42,Success,Web,SBI,36-45
+TXN000221,2025-06-01,04:12:00,Gujarat,Surat,Debit Card,Recharge,Utilities,1502.16,Success,Web,Other,36-45
+TXN000360,2025-06-01,05:02:00,Gujarat,Surat,Debit Card,Recharge,Healthcare,64.89,Success,Android,Other,18-25
+TXN000362,2025-06-01,08:29:00,West Bengal,Howrah,UPI,Merchant Payment,Groceries,687.28,Success,iOS,Other,36-45
+TXN000086,2025-06-02,18:37:00,Telangana,Warangal,Debit Card,Recharge,Entertainment,89.86,Success,Web,Kotak Mahindra Bank,46-60
+TXN000188,2025-06-02,09:45:00,Delhi,New Delhi,Mobile Wallet,Bill Payment,Entertainment,137.99,Success,Web,ICICI Bank,36-45
+TXN000679,2025-06-02,06:55:00,Delhi,New Delhi,Mobile Wallet,Bill Payment,Education,378.3,Success,iOS,SBI,46-60
+TXN000871,2025-06-02,18:08:00,Gujarat,Ahmedabad,Credit Card,P2P Transfer,Transport,124.34,Success,Web,SBI,46-60
+TXN001027,2025-06-02,18:59:00,Karnataka,Mangaluru,Mobile Wallet,Online Shopping,Transport,154.16,Success,iOS,SBI,26-35
+TXN000041,2025-06-03,16:19:00,Karnataka,Mangaluru,Mobile Wallet,Bill Payment,Education,310.59,Success,Web,HDFC Bank,26-35
+TXN000164,2025-06-03,05:45:00,Telangana,Hyderabad,Credit Card,Online Shopping,Utilities,65.32,Success,Android,HDFC Bank,26-35
+TXN001035,2025-06-03,12:30:00,Karnataka,Bengaluru,Debit Card,Online Shopping,Shopping,91.54,Success,Web,Axis Bank,60+
+TXN001066,2025-06-03,02:03:00,Gujarat,Surat,Net Banking,Recharge,Entertainment,48.44,Success,iOS,Axis Bank,46-60
+TXN000909,2025-06-04,23:30:00,Kerala,Kochi,Net Banking,Merchant Payment,Groceries,283.01,Success,iOS,ICICI Bank,36-45
+TXN000736,2025-06-05,23:27:00,Delhi,Rohini,UPI,P2P Transfer,Healthcare,238.08,Success,Web,ICICI Bank,18-25
+TXN000832,2025-06-05,09:36:00,Delhi,Dwarka,Debit Card,Bill Payment,Entertainment,59.23,Success,iOS,Axis Bank,46-60
+TXN000904,2025-06-05,03:17:00,Tamil Nadu,Madurai,Credit Card,Bill Payment,Education,532.96,Success,Android,HDFC Bank,18-25
+TXN001022,2025-06-05,15:18:00,Maharashtra,Mumbai,Credit Card,P2P Transfer,Entertainment,83.62,Success,iOS,Kotak Mahindra Bank,18-25
+TXN001166,2025-06-05,13:16:00,Tamil Nadu,Chennai,Net Banking,Recharge,Healthcare,1702.33,Success,Web,ICICI Bank,60+
+TXN000489,2025-06-06,16:02:00,Tamil Nadu,Howrah,Net Banking,Online Shopping,Transport,802.03,Success,Web,HDFC Bank,26-35
+TXN000802,2025-06-06,23:00:00,Maharashtra,Pune,Credit Card,Bill Payment,Utilities,88.58,Success,Web,Axis Bank,60+
+TXN001012,2025-06-06,22:15:00,West Bengal,Kolkata,Mobile Wallet,P2P Transfer,Transport,180.84,Success,iOS,HDFC Bank,18-25
+TXN000034,2025-06-07,11:57:00,Tamil Nadu,Chennai,Credit Card,Merchant Payment,Utilities,51.54,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000176,2025-06-07,15:01:00,West Bengal,Kolkata,Mobile Wallet,Online Shopping,Entertainment,339.4,Failed,Android,ICICI Bank,36-45
+TXN000519,2025-06-07,09:46:00,Gujarat,Howrah,Mobile Wallet,Merchant Payment,Food & Dining,163.91,Failed,Android,SBI,60+
+TXN000534,2025-06-07,22:54:00,Karnataka,Mysuru,UPI,Bill Payment,Education,44.21,Success,Android,ICICI Bank,46-60
+TXN000677,2025-06-07,00:41:00,Kerala,Kochi,UPI,Merchant Payment,Shopping,48.88,Success,iOS,Other,36-45
+TXN001197,2025-06-07,22:10:00,Telangana,Warangal,Mobile Wallet,Recharge,Shopping,145.53,Success,Web,HDFC Bank,26-35
+TXN000154,2025-06-08,16:25:00,Kerala,Thiruvananthapuram,Credit Card,P2P Transfer,Utilities,187.21,Success,Android,Other,36-45
+TXN000861,2025-06-08,16:44:00,Kerala,Kochi,Credit Card,Online Shopping,Entertainment,181.8,Success,Android,Axis Bank,36-45
+TXN001003,2025-06-09,22:29:00,Kerala,Kochi,Net Banking,P2P Transfer,Transport,157.53,Success,iOS,Axis Bank,46-60
+TXN000025,2025-06-10,01:03:00,Tamil Nadu,Salem,Net Banking,Online Shopping,Transport,86.11,Success,Web,SBI,26-35
+TXN000873,2025-06-10,03:02:00,West Bengal,Kolkata,Net Banking,Merchant Payment,Transport,37.36,Success,iOS,SBI,18-25
+TXN001080,2025-06-10,16:45:00,Delhi,Rohini,Net Banking,Online Shopping,Healthcare,347.31,Failed,iOS,Kotak Mahindra Bank,18-25
+TXN000028,2025-06-11,02:00:00,West Bengal,Howrah,Net Banking,Online Shopping,Food & Dining,216.09,Success,Android,Kotak Mahindra Bank,36-45
+TXN000295,2025-06-11,12:44:00,Telangana,Howrah,Credit Card,Recharge,Shopping,212.09,Success,Android,HDFC Bank,60+
+TXN000436,2025-06-11,13:22:00,Delhi,Rohini,Net Banking,P2P Transfer,Shopping,159.83,Success,Android,Axis Bank,36-45
+TXN000731,2025-06-11,12:49:00,Kerala,Kochi,Mobile Wallet,P2P Transfer,Education,180.52,Success,Web,Other,26-35
+TXN000235,2025-06-12,11:06:00,Gujarat,Ahmedabad,UPI,Bill Payment,Entertainment,1266.41,Success,iOS,SBI,26-35
+TXN000506,2025-06-12,02:35:00,Maharashtra,Nagpur,UPI,Merchant Payment,Healthcare,91.18,Success,Android,Other,18-25
+TXN000662,2025-06-12,12:36:00,Tamil Nadu,Salem,Credit Card,Online Shopping,Food & Dining,85.9,Success,Android,Other,26-35
+TXN000974,2025-06-12,16:10:00,Gujarat,Surat,Debit Card,P2P Transfer,Transport,77.28,Success,Web,Kotak Mahindra Bank,46-60
+TXN000995,2025-06-12,11:25:00,Telangana,Hyderabad,Net Banking,Bill Payment,Entertainment,54.51,Success,iOS,ICICI Bank,46-60
+TXN000174,2025-06-13,07:29:00,Karnataka,Bengaluru,Credit Card,Recharge,Utilities,208.75,Success,Android,ICICI Bank,46-60
+TXN000220,2025-06-13,06:23:00,West Bengal,Howrah,Mobile Wallet,P2P Transfer,Utilities,161.08,Success,Android,ICICI Bank,60+
+TXN000328,2025-06-13,23:58:00,Telangana,Hyderabad,UPI,Recharge,Education,327.56,Success,iOS,Kotak Mahindra Bank,46-60
+TXN001184,2025-06-13,11:40:00,Telangana,Hyderabad,Credit Card,Online Shopping,Education,30.86,Success,iOS,ICICI Bank,46-60
+TXN000087,2025-06-14,06:44:00,West Bengal,Kolkata,Net Banking,Recharge,Utilities,370.7,Success,iOS,SBI,36-45
+TXN000193,2025-06-14,09:41:00,Telangana,Hyderabad,UPI,Online Shopping,Utilities,183.85,Success,Web,SBI,26-35
+TXN000288,2025-06-14,07:26:00,Delhi,Rohini,Credit Card,Bill Payment,Food & Dining,267.29,Success,Android,Kotak Mahindra Bank,18-25
+TXN001046,2025-06-14,03:44:00,Maharashtra,Pune,Mobile Wallet,Merchant Payment,Utilities,359.12,Success,iOS,Axis Bank,36-45
+TXN000754,2025-06-15,08:24:00,Gujarat,Ahmedabad,UPI,Merchant Payment,Utilities,425.66,Success,Web,HDFC Bank,46-60
+TXN000701,2025-06-16,23:46:00,West Bengal,Kolkata,Debit Card,P2P Transfer,Shopping,87.99,Success,Android,Other,18-25
+TXN000803,2025-06-16,18:01:00,Telangana,Hyderabad,Debit Card,Merchant Payment,Healthcare,163.39,Success,Web,Kotak Mahindra Bank,60+
+TXN000233,2025-06-17,00:40:00,Gujarat,Surat,Mobile Wallet,Recharge,Utilities,155.33,Success,iOS,Axis Bank,26-35
+TXN000298,2025-06-17,04:05:00,Delhi,Rohini,Debit Card,Bill Payment,Education,201.8,Success,Web,ICICI Bank,36-45
+TXN000821,2025-06-17,10:35:00,Karnataka,Mangaluru,Debit Card,Online Shopping,Utilities,88.47,Failed,iOS,Axis Bank,18-25
+TXN000699,2025-06-18,00:18:00,Karnataka,Mangaluru,UPI,Recharge,Healthcare,373.91,Success,Android,ICICI Bank,26-35
+TXN000828,2025-06-18,04:17:00,West Bengal,Howrah,UPI,Online Shopping,Education,87.98,Success,iOS,SBI,26-35
+TXN001137,2025-06-18,03:58:00,Telangana,Warangal,Credit Card,Online Shopping,Groceries,487.59,Success,Android,Other,36-45
+TXN000849,2025-06-19,03:00:00,Kerala,Thiruvananthapuram,Mobile Wallet,Merchant Payment,Groceries,78.43,Success,Web,ICICI Bank,26-35
+TXN000924,2025-06-19,15:09:00,Telangana,Hyderabad,UPI,Online Shopping,Shopping,73.69,Success,Android,SBI,18-25
+TXN001126,2025-06-19,23:46:00,Delhi,New Delhi,Debit Card,Online Shopping,Entertainment,47.17,Success,iOS,HDFC Bank,26-35
+TXN000129,2025-06-20,05:04:00,Delhi,Rohini,UPI,Online Shopping,Transport,163.96,Failed,iOS,ICICI Bank,26-35
+TXN000538,2025-06-20,14:56:00,Karnataka,Bengaluru,UPI,Online Shopping,Shopping,101.03,Success,iOS,Other,26-35
+TXN001031,2025-06-20,19:06:00,Karnataka,Mysuru,Net Banking,Recharge,Healthcare,114.73,Success,Android,Other,60+
+TXN001141,2025-06-20,21:54:00,Tamil Nadu,Madurai,Debit Card,Online Shopping,Healthcare,110.22,Success,Web,ICICI Bank,46-60
+TXN000050,2025-06-21,10:57:00,Telangana,Hyderabad,Debit Card,Merchant Payment,Utilities,25.46,Success,Android,Other,26-35
+TXN000195,2025-06-21,09:29:00,Karnataka,Mangaluru,Net Banking,Online Shopping,Entertainment,176.48,Failed,Android,Kotak Mahindra Bank,46-60
+TXN000285,2025-06-21,13:17:00,Tamil Nadu,Chennai,Credit Card,Online Shopping,Food & Dining,1252.67,Success,Web,ICICI Bank,18-25
+TXN000447,2025-06-21,08:23:00,West Bengal,Howrah,Net Banking,Online Shopping,Shopping,214.13,Success,iOS,SBI,36-45
+TXN000488,2025-06-21,11:56:00,Tamil Nadu,Salem,Mobile Wallet,P2P Transfer,Utilities,50.32,Success,Web,SBI,46-60
+TXN001152,2025-06-21,10:41:00,West Bengal,Kolkata,Debit Card,Bill Payment,Shopping,17.23,Success,Web,HDFC Bank,18-25
+TXN000491,2025-06-22,02:30:00,Maharashtra,Nagpur,UPI,Online Shopping,Education,147.23,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000746,2025-06-22,12:30:00,West Bengal,Kolkata,Debit Card,Online Shopping,Entertainment,71.83,Success,Web,ICICI Bank,26-35
+TXN000820,2025-06-22,06:43:00,Tamil Nadu,Chennai,Debit Card,P2P Transfer,Transport,430.73,Success,Android,Axis Bank,60+
+TXN000848,2025-06-22,11:43:00,Gujarat,Surat,Credit Card,Merchant Payment,Healthcare,1729.0,Success,iOS,Kotak Mahindra Bank,18-25
+TXN001071,2025-06-22,18:25:00,Telangana,Hyderabad,Net Banking,Bill Payment,Healthcare,141.61,Success,iOS,Other,60+
+TXN000090,2025-06-23,19:44:00,Telangana,Warangal,UPI,Bill Payment,Education,247.96,Failed,Web,Other,46-60
+TXN000376,2025-06-23,03:48:00,Delhi,Dwarka,UPI,Online Shopping,Food & Dining,68.9,Success,iOS,Axis Bank,60+
+TXN000435,2025-06-23,14:43:00,Delhi,Dwarka,Net Banking,P2P Transfer,Entertainment,666.71,Success,Android,Axis Bank,26-35
+TXN001108,2025-06-23,20:52:00,Delhi,Howrah,Credit Card,Recharge,Education,51.76,Success,Android,Kotak Mahindra Bank,26-35
+TXN000173,2025-06-24,19:09:00,Delhi,Dwarka,Credit Card,Bill Payment,Education,137.4,Success,iOS,Kotak Mahindra Bank,60+
+TXN000434,2025-06-24,03:51:00,Telangana,Warangal,Net Banking,Online Shopping,Shopping,304.16,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000782,2025-06-24,06:42:00,Karnataka,Mysuru,Mobile Wallet,Online Shopping,Healthcare,39.04,Success,Web,ICICI Bank,60+
+TXN001179,2025-06-24,10:22:00,Kerala,Thiruvananthapuram,Debit Card,Recharge,Entertainment,55.22,Success,Web,HDFC Bank,46-60
+TXN000249,2025-06-25,14:50:00,Telangana,Hyderabad,Net Banking,Recharge,Healthcare,867.36,Success,iOS,Other,46-60
+TXN000829,2025-06-25,07:13:00,Kerala,Kochi,Debit Card,Merchant Payment,Education,97.5,Success,Android,Axis Bank,18-25
+TXN000039,2025-06-26,23:50:00,Gujarat,Surat,Mobile Wallet,Online Shopping,Food & Dining,39.32,Success,Web,HDFC Bank,36-45
+TXN000248,2025-06-26,00:30:00,Maharashtra,Mumbai,Credit Card,Recharge,Food & Dining,77.22,Success,Web,HDFC Bank,36-45
+TXN000305,2025-06-26,18:32:00,West Bengal,Howrah,Mobile Wallet,Bill Payment,Transport,145.34,Success,Web,HDFC Bank,18-25
+TXN000883,2025-06-26,23:43:00,Maharashtra,Nagpur,Net Banking,Online Shopping,Education,90.97,Success,Android,ICICI Bank,18-25
+TXN000284,2025-06-27,16:33:00,West Bengal,Howrah,Debit Card,Bill Payment,Transport,43.04,Success,iOS,Other,18-25
+TXN000029,2025-06-28,02:56:00,Maharashtra,Mumbai,Credit Card,Bill Payment,Transport,81.4,Success,Web,Other,36-45
+TXN000276,2025-06-29,13:20:00,Gujarat,Ahmedabad,Debit Card,Bill Payment,Food & Dining,235.59,Success,Web,Kotak Mahindra Bank,60+
+TXN000738,2025-06-29,09:18:00,Delhi,Rohini,Net Banking,Merchant Payment,Education,396.51,Success,Android,SBI,36-45
+TXN000158,2025-06-30,19:27:00,Tamil Nadu,Madurai,UPI,P2P Transfer,Education,238.37,Success,Web,Other,26-35
+TXN000482,2025-06-30,10:35:00,West Bengal,Howrah,Credit Card,Recharge,Education,57.08,Success,iOS,Kotak Mahindra Bank,26-35
+TXN001006,2025-06-30,08:07:00,West Bengal,Kolkata,Credit Card,Recharge,Utilities,219.97,Success,Web,Axis Bank,60+
+TXN001110,2025-06-30,17:04:00,Kerala,Kochi,Net Banking,Merchant Payment,Healthcare,1006.3,Success,Android,ICICI Bank,46-60
+TXN000227,2025-07-01,08:50:00,Telangana,Warangal,UPI,Bill Payment,Education,158.27,Success,Android,Other,26-35
+TXN000374,2025-07-01,20:51:00,Kerala,Thiruvananthapuram,Net Banking,Online Shopping,Healthcare,387.33,Success,Android,HDFC Bank,46-60
+TXN000779,2025-07-01,13:30:00,Telangana,Warangal,Debit Card,Merchant Payment,Transport,137.77,Success,Android,HDFC Bank,36-45
+TXN001098,2025-07-01,02:47:00,Karnataka,Bengaluru,UPI,Bill Payment,Transport,20.12,Success,iOS,Axis Bank,60+
+TXN000633,2025-07-02,05:03:00,Maharashtra,Pune,Credit Card,Recharge,Healthcare,126.72,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000927,2025-07-02,02:39:00,Telangana,Warangal,UPI,Bill Payment,Food & Dining,84.87,Failed,Web,HDFC Bank,26-35
+TXN000384,2025-07-03,14:06:00,Tamil Nadu,Coimbatore,Net Banking,Recharge,Utilities,87.73,Success,Web,ICICI Bank,18-25
+TXN000406,2025-07-03,09:31:00,West Bengal,Kolkata,Debit Card,Online Shopping,Food & Dining,276.68,Success,Android,Kotak Mahindra Bank,26-35
+TXN000704,2025-07-03,21:06:00,Maharashtra,Pune,Net Banking,Merchant Payment,Entertainment,36.29,Success,iOS,Axis Bank,36-45
+TXN001073,2025-07-03,15:40:00,Tamil Nadu,Coimbatore,Mobile Wallet,P2P Transfer,Food & Dining,160.26,Success,Web,Kotak Mahindra Bank,36-45
+TXN000391,2025-07-04,09:13:00,Kerala,Thiruvananthapuram,Net Banking,P2P Transfer,Food & Dining,60.44,Success,iOS,HDFC Bank,60+
+TXN000646,2025-07-04,22:18:00,West Bengal,Kolkata,UPI,Bill Payment,Entertainment,112.99,Success,iOS,Axis Bank,60+
+TXN000739,2025-07-04,14:06:00,Delhi,New Delhi,Mobile Wallet,Recharge,Food & Dining,784.84,Success,iOS,HDFC Bank,46-60
+TXN000907,2025-07-04,23:51:00,Kerala,Thiruvananthapuram,Net Banking,Online Shopping,Healthcare,38.1,Success,iOS,HDFC Bank,60+
+TXN000866,2025-07-05,23:54:00,Tamil Nadu,Chennai,Debit Card,Recharge,Education,100.72,Success,Android,SBI,18-25
+TXN001083,2025-07-05,07:29:00,Delhi,Howrah,UPI,Merchant Payment,Entertainment,107.59,Success,iOS,ICICI Bank,18-25
+TXN000983,2025-07-06,03:57:00,Delhi,Howrah,UPI,Bill Payment,Transport,56.43,Success,Web,ICICI Bank,26-35
+TXN000581,2025-07-07,17:54:00,Karnataka,Mysuru,UPI,Recharge,Shopping,208.2,Success,Android,Kotak Mahindra Bank,18-25
+TXN000910,2025-07-07,14:40:00,Kerala,Kochi,Mobile Wallet,P2P Transfer,Entertainment,1291.11,Success,Web,SBI,26-35
+TXN000937,2025-07-07,04:05:00,Maharashtra,Mumbai,UPI,P2P Transfer,Education,53.45,Success,Android,Axis Bank,26-35
+TXN001194,2025-07-07,13:42:00,Maharashtra,Pune,Debit Card,Merchant Payment,Entertainment,204.34,Success,Android,ICICI Bank,18-25
+TXN000058,2025-07-08,05:38:00,Telangana,Hyderabad,Debit Card,Bill Payment,Food & Dining,108.94,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000686,2025-07-08,05:36:00,Karnataka,Bengaluru,UPI,Online Shopping,Education,302.78,Success,iOS,Other,46-60
+TXN000781,2025-07-08,00:33:00,Telangana,Hyderabad,UPI,Merchant Payment,Groceries,177.27,Success,Android,HDFC Bank,26-35
+TXN001129,2025-07-08,19:49:00,Telangana,Warangal,Credit Card,Online Shopping,Utilities,139.19,Success,Android,SBI,26-35
+TXN000607,2025-07-09,20:29:00,Maharashtra,Nagpur,UPI,P2P Transfer,Transport,68.46,Failed,iOS,Kotak Mahindra Bank,18-25
+TXN000764,2025-07-09,06:28:00,West Bengal,Kolkata,Debit Card,P2P Transfer,Shopping,134.82,Success,Web,ICICI Bank,26-35
+TXN000364,2025-07-10,10:11:00,Karnataka,Howrah,Mobile Wallet,Recharge,Entertainment,221.79,Success,iOS,Other,46-60
+TXN000464,2025-07-10,14:44:00,West Bengal,Kolkata,Credit Card,P2P Transfer,Transport,183.82,Success,iOS,SBI,60+
+TXN000014,2025-07-11,05:34:00,Maharashtra,Nagpur,UPI,Online Shopping,Healthcare,21.91,Success,Android,ICICI Bank,36-45
+TXN000146,2025-07-11,07:01:00,Karnataka,Mysuru,UPI,Bill Payment,Transport,324.35,Success,iOS,Axis Bank,26-35
+TXN000632,2025-07-11,16:46:00,Karnataka,Mangaluru,UPI,Bill Payment,Transport,685.09,Success,Android,ICICI Bank,46-60
+TXN000971,2025-07-11,07:32:00,Tamil Nadu,Madurai,Credit Card,Bill Payment,Shopping,168.7,Success,iOS,Other,26-35
+TXN000121,2025-07-12,13:29:00,Delhi,Dwarka,Debit Card,Bill Payment,Shopping,327.35,Success,Web,Kotak Mahindra Bank,18-25
+TXN000340,2025-07-12,11:29:00,Gujarat,Surat,Debit Card,Recharge,Shopping,84.46,Success,Web,Axis Bank,60+
+TXN000483,2025-07-12,17:59:00,Delhi,Rohini,Credit Card,Bill Payment,Entertainment,29.77,Success,iOS,SBI,18-25
+TXN000005,2025-07-13,02:35:00,Karnataka,Mysuru,Net Banking,Bill Payment,Utilities,117.43,Success,Android,Other,26-35
+TXN000217,2025-07-13,21:38:00,Telangana,Hyderabad,UPI,Merchant Payment,Utilities,68.52,Success,iOS,ICICI Bank,18-25
+TXN000881,2025-07-13,07:24:00,Karnataka,Bengaluru,UPI,Merchant Payment,Shopping,1857.4,Success,iOS,SBI,60+
+TXN000922,2025-07-13,12:01:00,Karnataka,Howrah,UPI,P2P Transfer,Transport,53.17,Success,Android,ICICI Bank,26-35
+TXN001133,2025-07-13,12:45:00,Gujarat,Surat,Credit Card,Bill Payment,Healthcare,745.24,Success,Web,HDFC Bank,26-35
+TXN000219,2025-07-14,14:34:00,Telangana,Warangal,Credit Card,Bill Payment,Healthcare,91.34,Success,iOS,Axis Bank,18-25
+TXN000903,2025-07-14,13:33:00,Tamil Nadu,Madurai,Debit Card,Merchant Payment,Healthcare,152.74,Success,Android,Kotak Mahindra Bank,46-60
+TXN000143,2025-07-15,16:33:00,Telangana,Warangal,Debit Card,Merchant Payment,Transport,29.74,Success,Android,Other,46-60
+TXN000207,2025-07-15,14:55:00,Kerala,Thiruvananthapuram,Mobile Wallet,P2P Transfer,Transport,248.4,Success,iOS,SBI,26-35
+TXN000445,2025-07-15,06:09:00,Gujarat,Ahmedabad,Mobile Wallet,P2P Transfer,Transport,40.27,Success,Android,Other,60+
+TXN000653,2025-07-15,19:43:00,Maharashtra,Pune,Debit Card,Bill Payment,Food & Dining,113.42,Success,Web,Kotak Mahindra Bank,46-60
+TXN000804,2025-07-15,06:25:00,Gujarat,Ahmedabad,Net Banking,Recharge,Utilities,93.48,Success,iOS,Kotak Mahindra Bank,46-60
+TXN001070,2025-07-15,14:47:00,Maharashtra,Mumbai,Debit Card,P2P Transfer,Shopping,209.87,Success,iOS,SBI,26-35
+TXN001081,2025-07-15,20:05:00,Maharashtra,Mumbai,Debit Card,Online Shopping,Education,104.73,Success,Android,Kotak Mahindra Bank,18-25
+TXN001117,2025-07-15,00:31:00,Delhi,Rohini,Mobile Wallet,Bill Payment,Food & Dining,1641.58,Success,Web,SBI,46-60
+TXN001136,2025-07-15,11:11:00,Delhi,Rohini,UPI,Merchant Payment,Entertainment,389.2,Success,Android,SBI,60+
+TXN000232,2025-07-16,23:08:00,Kerala,Kochi,Net Banking,Bill Payment,Groceries,184.28,Success,Android,SBI,36-45
+TXN000258,2025-07-16,17:32:00,Delhi,Rohini,Mobile Wallet,Recharge,Entertainment,73.14,Success,iOS,Axis Bank,26-35
+TXN000304,2025-07-16,04:26:00,Telangana,Hyderabad,Net Banking,Merchant Payment,Groceries,273.25,Pending,Web,ICICI Bank,46-60
+TXN000542,2025-07-16,01:05:00,Karnataka,Mysuru,Mobile Wallet,Merchant Payment,Entertainment,47.96,Success,iOS,ICICI Bank,26-35
+TXN000557,2025-07-16,11:14:00,West Bengal,Kolkata,Mobile Wallet,Online Shopping,Groceries,91.14,Success,Web,HDFC Bank,60+
+TXN000580,2025-07-16,22:52:00,Tamil Nadu,Salem,UPI,Online Shopping,Healthcare,465.8,Success,iOS,Axis Bank,18-25
+TXN000933,2025-07-16,02:37:00,Delhi,Rohini,Mobile Wallet,Online Shopping,Utilities,34.88,Success,Android,ICICI Bank,18-25
+TXN001186,2025-07-16,18:41:00,Karnataka,Mysuru,Mobile Wallet,Recharge,Utilities,380.23,Success,Web,HDFC Bank,26-35
+TXN001198,2025-07-16,08:40:00,Telangana,Hyderabad,UPI,Merchant Payment,Shopping,257.88,Success,Android,ICICI Bank,36-45
+TXN000316,2025-07-17,14:46:00,Tamil Nadu,Salem,Debit Card,Recharge,Entertainment,151.56,Failed,iOS,Kotak Mahindra Bank,46-60
+TXN000338,2025-07-17,01:10:00,Tamil Nadu,Coimbatore,Debit Card,Merchant Payment,Utilities,107.62,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000279,2025-07-18,18:26:00,Maharashtra,Pune,Net Banking,Merchant Payment,Entertainment,159.14,Failed,Android,SBI,60+
+TXN000385,2025-07-18,13:50:00,Gujarat,Surat,Net Banking,P2P Transfer,Groceries,69.47,Success,Android,Kotak Mahindra Bank,46-60
+TXN000955,2025-07-18,14:42:00,Delhi,New Delhi,Credit Card,Recharge,Entertainment,136.71,Success,iOS,SBI,18-25
+TXN000151,2025-07-19,15:02:00,Tamil Nadu,Salem,Credit Card,Bill Payment,Groceries,190.66,Success,Android,ICICI Bank,26-35
+TXN000551,2025-07-19,19:36:00,Telangana,Warangal,Debit Card,Merchant Payment,Healthcare,161.84,Success,Web,ICICI Bank,46-60
+TXN000282,2025-07-20,18:40:00,Kerala,Kochi,Credit Card,Recharge,Utilities,287.76,Success,Android,Axis Bank,18-25
+TXN000512,2025-07-21,19:47:00,Kerala,Kochi,Net Banking,P2P Transfer,Entertainment,141.14,Success,Android,HDFC Bank,60+
+TXN000812,2025-07-21,22:02:00,Karnataka,Bengaluru,Debit Card,Bill Payment,Shopping,95.61,Success,Android,Other,26-35
+TXN000252,2025-07-22,00:47:00,Gujarat,Ahmedabad,Mobile Wallet,Online Shopping,Education,371.62,Success,Web,HDFC Bank,26-35
+TXN000271,2025-07-22,20:19:00,Tamil Nadu,Howrah,Mobile Wallet,P2P Transfer,Food & Dining,627.2,Success,iOS,SBI,26-35
+TXN000302,2025-07-22,15:01:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Healthcare,84.76,Success,Android,ICICI Bank,36-45
+TXN000649,2025-07-22,12:44:00,Maharashtra,Nagpur,UPI,Merchant Payment,Food & Dining,117.81,Success,Android,ICICI Bank,26-35
+TXN000692,2025-07-22,21:23:00,Telangana,Hyderabad,Net Banking,P2P Transfer,Transport,473.11,Success,Web,Axis Bank,36-45
+TXN000161,2025-07-23,10:41:00,Kerala,Thiruvananthapuram,Debit Card,P2P Transfer,Groceries,56.0,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000945,2025-07-23,16:12:00,Telangana,Warangal,Mobile Wallet,Bill Payment,Transport,940.71,Success,Android,ICICI Bank,46-60
+TXN001138,2025-07-23,01:44:00,West Bengal,Howrah,Credit Card,P2P Transfer,Groceries,43.48,Success,iOS,Kotak Mahindra Bank,46-60
+TXN001004,2025-07-24,06:04:00,Delhi,Dwarka,Mobile Wallet,Merchant Payment,Shopping,77.72,Failed,Web,Other,18-25
+TXN001124,2025-07-24,00:18:00,Gujarat,Ahmedabad,Mobile Wallet,Bill Payment,Shopping,47.32,Success,Web,ICICI Bank,60+
+TXN000444,2025-07-25,08:28:00,Kerala,Kochi,Net Banking,Merchant Payment,Utilities,135.76,Success,Web,ICICI Bank,26-35
+TXN001174,2025-07-25,00:11:00,Gujarat,Surat,UPI,Recharge,Food & Dining,139.41,Success,Web,ICICI Bank,36-45
+TXN000021,2025-07-26,23:21:00,Tamil Nadu,Howrah,Debit Card,Merchant Payment,Utilities,642.68,Success,Android,Axis Bank,26-35
+TXN000178,2025-07-26,11:02:00,Kerala,Thiruvananthapuram,UPI,Online Shopping,Utilities,634.94,Success,iOS,SBI,46-60
+TXN001008,2025-07-26,05:38:00,Delhi,Dwarka,Net Banking,Online Shopping,Entertainment,280.11,Success,Android,Other,18-25
+TXN001180,2025-07-26,01:42:00,Telangana,Hyderabad,Mobile Wallet,Online Shopping,Healthcare,49.23,Success,Web,Kotak Mahindra Bank,36-45
+TXN000670,2025-07-27,07:07:00,Delhi,New Delhi,Debit Card,P2P Transfer,Utilities,442.09,Success,iOS,Axis Bank,46-60
+TXN000888,2025-07-27,00:39:00,Karnataka,Bengaluru,UPI,Recharge,Healthcare,103.62,Success,Web,Other,60+
+TXN000064,2025-07-28,15:35:00,Delhi,New Delhi,Mobile Wallet,Recharge,Entertainment,44.87,Success,Android,ICICI Bank,26-35
+TXN000334,2025-07-28,23:31:00,Delhi,Rohini,Credit Card,P2P Transfer,Transport,75.4,Success,Web,Kotak Mahindra Bank,46-60
+TXN000079,2025-07-29,10:20:00,Kerala,Kochi,Debit Card,Bill Payment,Education,162.68,Success,iOS,Other,46-60
+TXN000244,2025-07-29,21:31:00,Karnataka,Bengaluru,Credit Card,Merchant Payment,Shopping,352.75,Success,Web,Axis Bank,46-60
+TXN000349,2025-07-29,18:57:00,Kerala,Thiruvananthapuram,Debit Card,Bill Payment,Transport,72.35,Success,iOS,ICICI Bank,26-35
+TXN000375,2025-07-29,03:16:00,Maharashtra,Nagpur,Debit Card,Merchant Payment,Food & Dining,1278.17,Failed,iOS,HDFC Bank,46-60
+TXN000521,2025-07-29,14:05:00,West Bengal,Kolkata,Debit Card,Online Shopping,Shopping,27.95,Success,Web,HDFC Bank,18-25
+TXN001086,2025-07-29,13:32:00,Karnataka,Bengaluru,Net Banking,Recharge,Utilities,228.16,Failed,iOS,SBI,26-35
+TXN001090,2025-07-29,20:28:00,West Bengal,Howrah,Credit Card,Recharge,Transport,121.95,Success,Web,Kotak Mahindra Bank,60+
+TXN000418,2025-07-30,19:09:00,Delhi,Rohini,Debit Card,Online Shopping,Shopping,166.61,Success,Web,ICICI Bank,46-60
+TXN000558,2025-07-30,17:36:00,Telangana,Warangal,UPI,P2P Transfer,Entertainment,96.3,Success,Android,Kotak Mahindra Bank,46-60
+TXN000669,2025-07-30,10:55:00,Gujarat,Howrah,Debit Card,Recharge,Shopping,10.48,Success,Web,ICICI Bank,36-45
+TXN000813,2025-07-30,17:07:00,West Bengal,Howrah,UPI,P2P Transfer,Transport,630.79,Success,Android,ICICI Bank,26-35
+TXN000081,2025-07-31,01:12:00,West Bengal,Howrah,Net Banking,Recharge,Entertainment,119.14,Success,Android,ICICI Bank,60+
+TXN000507,2025-07-31,13:19:00,Kerala,Thiruvananthapuram,Credit Card,Merchant Payment,Utilities,82.07,Success,Android,SBI,60+
+TXN000680,2025-07-31,10:45:00,West Bengal,Howrah,UPI,Merchant Payment,Shopping,529.3,Success,iOS,Axis Bank,60+
+TXN000051,2025-08-01,13:21:00,Karnataka,Mangaluru,Mobile Wallet,Recharge,Groceries,205.22,Success,iOS,Axis Bank,60+
+TXN000115,2025-08-01,23:06:00,Gujarat,Surat,Mobile Wallet,Bill Payment,Shopping,122.44,Success,Android,Other,46-60
+TXN000811,2025-08-01,07:11:00,Maharashtra,Nagpur,Mobile Wallet,Recharge,Education,123.12,Failed,Android,Other,60+
+TXN000972,2025-08-01,01:00:00,Tamil Nadu,Chennai,Debit Card,Bill Payment,Healthcare,75.11,Success,Web,Axis Bank,26-35
+TXN000637,2025-08-02,14:58:00,Karnataka,Bengaluru,UPI,Merchant Payment,Groceries,338.04,Success,iOS,Other,36-45
+TXN000256,2025-08-03,19:08:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Entertainment,91.45,Success,Web,Other,26-35
+TXN000783,2025-08-03,10:10:00,Telangana,Hyderabad,Mobile Wallet,P2P Transfer,Entertainment,217.07,Success,Android,Other,26-35
+TXN000879,2025-08-03,04:20:00,Maharashtra,Pune,Mobile Wallet,P2P Transfer,Utilities,146.0,Success,Android,Kotak Mahindra Bank,18-25
+TXN000960,2025-08-03,16:13:00,West Bengal,Howrah,Debit Card,P2P Transfer,Food & Dining,232.23,Failed,iOS,ICICI Bank,36-45
+TXN001087,2025-08-03,08:48:00,Karnataka,Mangaluru,Mobile Wallet,P2P Transfer,Transport,415.83,Success,iOS,SBI,26-35
+TXN001029,2025-08-04,02:48:00,Tamil Nadu,Coimbatore,Net Banking,Bill Payment,Utilities,274.11,Success,iOS,HDFC Bank,60+
+TXN000514,2025-08-05,09:39:00,Maharashtra,Mumbai,Net Banking,Merchant Payment,Entertainment,59.89,Success,iOS,ICICI Bank,60+
+TXN000671,2025-08-05,20:57:00,Gujarat,Ahmedabad,Debit Card,Merchant Payment,Shopping,515.99,Success,iOS,ICICI Bank,60+
+TXN000859,2025-08-05,10:49:00,Gujarat,Surat,Debit Card,Online Shopping,Utilities,85.44,Success,Android,Kotak Mahindra Bank,46-60
+TXN000261,2025-08-06,03:47:00,Delhi,Rohini,Debit Card,Bill Payment,Groceries,58.74,Success,iOS,SBI,46-60
+TXN000645,2025-08-06,06:32:00,Gujarat,Ahmedabad,Mobile Wallet,P2P Transfer,Healthcare,116.08,Success,Android,Kotak Mahindra Bank,26-35
+TXN000112,2025-08-07,21:06:00,Gujarat,Surat,Mobile Wallet,P2P Transfer,Food & Dining,144.53,Success,Android,SBI,26-35
+TXN000588,2025-08-07,10:51:00,Delhi,Rohini,Mobile Wallet,Bill Payment,Food & Dining,63.44,Pending,Web,Kotak Mahindra Bank,26-35
+TXN000608,2025-08-07,08:44:00,Telangana,Hyderabad,UPI,Online Shopping,Healthcare,42.75,Success,Android,Kotak Mahindra Bank,36-45
+TXN001050,2025-08-07,20:24:00,West Bengal,Kolkata,Net Banking,P2P Transfer,Transport,589.98,Success,iOS,SBI,18-25
+TXN000900,2025-08-08,07:39:00,Karnataka,Bengaluru,Net Banking,Merchant Payment,Utilities,65.57,Success,Android,ICICI Bank,26-35
+TXN000987,2025-08-08,06:36:00,Gujarat,Surat,Credit Card,P2P Transfer,Entertainment,667.41,Success,Android,ICICI Bank,36-45
+TXN001013,2025-08-08,10:01:00,West Bengal,Kolkata,Credit Card,P2P Transfer,Transport,1182.35,Success,Android,Kotak Mahindra Bank,36-45
+TXN000043,2025-08-09,18:38:00,Delhi,Rohini,Credit Card,Recharge,Entertainment,132.2,Success,Android,Kotak Mahindra Bank,46-60
+TXN000241,2025-08-09,20:38:00,Kerala,Kochi,Credit Card,Bill Payment,Utilities,67.19,Success,Android,Axis Bank,36-45
+TXN000247,2025-08-09,03:00:00,Kerala,Kochi,Credit Card,Merchant Payment,Utilities,92.3,Success,iOS,Axis Bank,60+
+TXN000640,2025-08-09,01:12:00,West Bengal,Kolkata,UPI,Online Shopping,Groceries,40.65,Success,iOS,SBI,18-25
+TXN000655,2025-08-09,03:24:00,Tamil Nadu,Salem,Credit Card,Recharge,Entertainment,1945.67,Success,Android,HDFC Bank,60+
+TXN000694,2025-08-09,09:57:00,Kerala,Thiruvananthapuram,Net Banking,Bill Payment,Healthcare,274.77,Success,Android,ICICI Bank,46-60
+TXN000724,2025-08-09,03:39:00,Kerala,Kochi,UPI,Online Shopping,Utilities,312.08,Success,iOS,ICICI Bank,18-25
+TXN000368,2025-08-10,21:46:00,Karnataka,Howrah,Mobile Wallet,Bill Payment,Education,150.29,Success,Web,Kotak Mahindra Bank,18-25
+TXN000666,2025-08-10,21:34:00,Telangana,Warangal,Debit Card,Recharge,Education,165.08,Success,Web,Axis Bank,60+
+TXN000808,2025-08-10,22:42:00,Telangana,Warangal,Debit Card,Online Shopping,Shopping,91.95,Success,Web,Other,46-60
+TXN001036,2025-08-10,04:40:00,Karnataka,Bengaluru,Debit Card,Merchant Payment,Utilities,716.22,Success,Web,Other,60+
+TXN000061,2025-08-11,05:46:00,Maharashtra,Nagpur,Credit Card,Online Shopping,Entertainment,91.91,Success,Web,Kotak Mahindra Bank,36-45
+TXN000354,2025-08-11,21:08:00,Kerala,Thiruvananthapuram,Mobile Wallet,Bill Payment,Utilities,126.48,Success,iOS,SBI,26-35
+TXN000554,2025-08-11,17:13:00,Gujarat,Ahmedabad,Mobile Wallet,Merchant Payment,Utilities,191.41,Success,iOS,Axis Bank,26-35
+TXN001059,2025-08-12,01:15:00,Kerala,Kochi,UPI,Online Shopping,Groceries,255.6,Success,Web,Kotak Mahindra Bank,60+
+TXN000076,2025-08-13,03:29:00,Telangana,Warangal,Mobile Wallet,Bill Payment,Entertainment,337.61,Success,Web,SBI,46-60
+TXN000430,2025-08-13,00:12:00,West Bengal,Howrah,Debit Card,P2P Transfer,Utilities,25.57,Success,Web,SBI,36-45
+TXN000463,2025-08-13,23:00:00,Maharashtra,Mumbai,UPI,Merchant Payment,Groceries,73.72,Success,iOS,Axis Bank,36-45
+TXN000511,2025-08-13,19:31:00,Maharashtra,Nagpur,Credit Card,Recharge,Utilities,194.5,Success,Android,Kotak Mahindra Bank,46-60
+TXN000590,2025-08-13,07:59:00,Maharashtra,Nagpur,UPI,Merchant Payment,Food & Dining,63.05,Success,Web,Kotak Mahindra Bank,46-60
+TXN000720,2025-08-13,07:32:00,Kerala,Kochi,Net Banking,Bill Payment,Entertainment,140.2,Success,iOS,Other,46-60
+TXN000185,2025-08-14,10:26:00,Tamil Nadu,Coimbatore,Mobile Wallet,Merchant Payment,Education,118.69,Success,Web,Axis Bank,18-25
+TXN001074,2025-08-14,05:16:00,Karnataka,Mysuru,Credit Card,Recharge,Transport,41.14,Success,Android,HDFC Bank,60+
+TXN000190,2025-08-15,20:16:00,Kerala,Thiruvananthapuram,Debit Card,Merchant Payment,Shopping,32.63,Failed,Web,ICICI Bank,26-35
+TXN000457,2025-08-15,09:23:00,Karnataka,Mysuru,Credit Card,Merchant Payment,Shopping,133.35,Success,Web,HDFC Bank,36-45
+TXN000638,2025-08-15,19:33:00,Maharashtra,Pune,Debit Card,Bill Payment,Groceries,159.7,Success,Android,HDFC Bank,26-35
+TXN000818,2025-08-15,22:03:00,Delhi,Rohini,Net Banking,P2P Transfer,Education,361.27,Success,iOS,SBI,60+
+TXN000918,2025-08-15,07:20:00,Delhi,Dwarka,Debit Card,Online Shopping,Education,178.86,Success,Android,Other,46-60
+TXN000357,2025-08-16,12:07:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Utilities,145.69,Success,Web,SBI,36-45
+TXN000549,2025-08-16,05:19:00,Karnataka,Mysuru,UPI,Online Shopping,Food & Dining,215.11,Success,Web,Axis Bank,36-45
+TXN000315,2025-08-17,00:16:00,Kerala,Kochi,Debit Card,P2P Transfer,Healthcare,547.56,Success,Android,Other,18-25
+TXN000371,2025-08-17,10:07:00,West Bengal,Howrah,UPI,P2P Transfer,Education,152.1,Success,Web,Kotak Mahindra Bank,18-25
+TXN000626,2025-08-17,17:05:00,Telangana,Hyderabad,Mobile Wallet,Recharge,Entertainment,89.01,Success,Web,Axis Bank,46-60
+TXN000740,2025-08-17,02:23:00,Delhi,Rohini,Net Banking,Recharge,Education,409.27,Success,Web,Axis Bank,46-60
+TXN000930,2025-08-17,23:50:00,Gujarat,Surat,UPI,P2P Transfer,Education,138.97,Failed,iOS,HDFC Bank,18-25
+TXN001118,2025-08-17,11:30:00,Delhi,Rohini,UPI,Bill Payment,Healthcare,140.1,Success,Web,SBI,18-25
+TXN000142,2025-08-18,07:34:00,Telangana,Hyderabad,Credit Card,Recharge,Utilities,548.48,Success,Web,Axis Bank,46-60
+TXN000147,2025-08-18,19:00:00,West Bengal,Kolkata,UPI,Bill Payment,Utilities,43.08,Success,Web,Other,60+
+TXN000245,2025-08-18,19:30:00,Karnataka,Mangaluru,Mobile Wallet,Online Shopping,Education,44.69,Success,iOS,Other,60+
+TXN000948,2025-08-18,04:21:00,Kerala,Thiruvananthapuram,Credit Card,Online Shopping,Education,74.3,Success,Web,Other,46-60
+TXN000404,2025-08-19,10:39:00,West Bengal,Howrah,Net Banking,Merchant Payment,Healthcare,155.55,Success,iOS,HDFC Bank,18-25
+TXN000964,2025-08-19,04:40:00,Tamil Nadu,Salem,Net Banking,P2P Transfer,Groceries,301.57,Success,Android,Axis Bank,60+
+TXN001185,2025-08-19,05:59:00,Telangana,Hyderabad,Mobile Wallet,Bill Payment,Groceries,55.17,Success,iOS,Axis Bank,26-35
+TXN000111,2025-08-20,16:14:00,Karnataka,Mangaluru,Mobile Wallet,Online Shopping,Shopping,21.79,Success,Android,SBI,46-60
+TXN000266,2025-08-20,02:40:00,Gujarat,Ahmedabad,Mobile Wallet,Online Shopping,Shopping,42.62,Success,iOS,ICICI Bank,46-60
+TXN000850,2025-08-20,19:43:00,Kerala,Thiruvananthapuram,Net Banking,Recharge,Utilities,87.27,Success,Web,ICICI Bank,18-25
+TXN000080,2025-08-21,02:20:00,Tamil Nadu,Madurai,Credit Card,P2P Transfer,Education,20.34,Success,Android,Other,60+
+TXN000433,2025-08-21,12:36:00,Delhi,New Delhi,Credit Card,Merchant Payment,Education,113.36,Success,Web,SBI,60+
+TXN000561,2025-08-21,16:57:00,West Bengal,Howrah,Net Banking,Bill Payment,Education,198.3,Success,iOS,ICICI Bank,26-35
+TXN000681,2025-08-21,22:01:00,Kerala,Kochi,Debit Card,Recharge,Transport,305.42,Success,Android,Other,36-45
+TXN000777,2025-08-21,12:29:00,Tamil Nadu,Salem,Net Banking,Online Shopping,Food & Dining,71.73,Success,Web,SBI,46-60
+TXN001097,2025-08-21,09:58:00,Maharashtra,Mumbai,UPI,Recharge,Education,160.55,Success,Android,HDFC Bank,36-45
+TXN000788,2025-08-22,07:23:00,Telangana,Warangal,Debit Card,Online Shopping,Education,234.9,Success,Android,SBI,26-35
+TXN000240,2025-08-23,03:08:00,Delhi,Dwarka,UPI,Recharge,Healthcare,348.08,Success,iOS,ICICI Bank,46-60
+TXN000613,2025-08-23,02:05:00,Delhi,Dwarka,Debit Card,Bill Payment,Transport,196.36,Success,iOS,SBI,26-35
+TXN000712,2025-08-24,22:25:00,West Bengal,Howrah,Credit Card,Online Shopping,Healthcare,134.73,Success,Web,Other,46-60
+TXN001190,2025-08-24,07:43:00,West Bengal,Howrah,Debit Card,Merchant Payment,Entertainment,56.35,Success,Android,Kotak Mahindra Bank,36-45
+TXN000022,2025-08-25,07:55:00,Telangana,Hyderabad,Mobile Wallet,Online Shopping,Food & Dining,118.42,Success,Web,SBI,18-25
+TXN000570,2025-08-25,21:47:00,Gujarat,Ahmedabad,Net Banking,Merchant Payment,Healthcare,104.43,Success,Android,ICICI Bank,60+
+TXN000814,2025-08-25,00:04:00,Tamil Nadu,Salem,Mobile Wallet,Bill Payment,Education,180.65,Success,iOS,SBI,18-25
+TXN001005,2025-08-25,03:47:00,Maharashtra,Mumbai,Debit Card,P2P Transfer,Entertainment,298.34,Success,Android,Axis Bank,60+
+TXN000131,2025-08-26,18:48:00,West Bengal,Howrah,Net Banking,Online Shopping,Healthcare,31.48,Success,Web,ICICI Bank,26-35
+TXN000297,2025-08-26,08:54:00,Telangana,Hyderabad,UPI,Merchant Payment,Shopping,364.89,Success,Web,Kotak Mahindra Bank,18-25
+TXN000409,2025-08-26,16:32:00,Maharashtra,Mumbai,Mobile Wallet,Bill Payment,Groceries,167.38,Success,Web,Other,26-35
+TXN000706,2025-08-26,21:14:00,Kerala,Kochi,Mobile Wallet,Online Shopping,Food & Dining,272.06,Success,iOS,SBI,46-60
+TXN000758,2025-08-26,19:18:00,Tamil Nadu,Coimbatore,UPI,P2P Transfer,Entertainment,178.54,Success,iOS,Other,46-60
+TXN001038,2025-08-26,13:52:00,Karnataka,Mysuru,Debit Card,P2P Transfer,Shopping,34.32,Success,Web,Axis Bank,18-25
+TXN000324,2025-08-27,08:14:00,West Bengal,Howrah,Net Banking,P2P Transfer,Transport,1202.78,Success,Web,SBI,18-25
+TXN000543,2025-08-27,18:08:00,Karnataka,Bengaluru,Mobile Wallet,P2P Transfer,Entertainment,252.09,Success,Web,Other,46-60
+TXN000601,2025-08-27,14:26:00,Karnataka,Bengaluru,Credit Card,Merchant Payment,Shopping,316.39,Success,Web,Kotak Mahindra Bank,26-35
+TXN000784,2025-08-27,19:13:00,Delhi,New Delhi,Mobile Wallet,Bill Payment,Education,273.3,Success,Android,SBI,36-45
+TXN000455,2025-08-28,17:59:00,West Bengal,Howrah,Mobile Wallet,Recharge,Transport,87.33,Failed,Web,Kotak Mahindra Bank,26-35
+TXN000473,2025-08-28,08:55:00,Kerala,Kochi,UPI,Online Shopping,Transport,32.62,Success,iOS,Kotak Mahindra Bank,36-45
+TXN000574,2025-08-28,21:59:00,Telangana,Hyderabad,Mobile Wallet,Bill Payment,Education,119.21,Success,Web,ICICI Bank,36-45
+TXN000458,2025-08-29,17:00:00,Telangana,Warangal,Mobile Wallet,Bill Payment,Groceries,52.71,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000604,2025-08-29,23:49:00,Tamil Nadu,Chennai,Mobile Wallet,Online Shopping,Education,575.73,Success,Web,SBI,46-60
+TXN000612,2025-08-29,22:34:00,Karnataka,Mangaluru,Net Banking,Bill Payment,Entertainment,140.39,Success,Web,Other,18-25
+TXN000938,2025-08-29,13:46:00,Telangana,Warangal,Mobile Wallet,P2P Transfer,Shopping,301.38,Success,Android,Other,18-25
+TXN000192,2025-08-30,03:43:00,Kerala,Kochi,UPI,Online Shopping,Transport,349.46,Success,iOS,Axis Bank,26-35
+TXN000348,2025-08-30,06:32:00,Karnataka,Bengaluru,Mobile Wallet,Online Shopping,Shopping,36.33,Success,Android,HDFC Bank,26-35
+TXN000833,2025-08-30,14:27:00,Maharashtra,Nagpur,Net Banking,Recharge,Transport,54.37,Success,iOS,SBI,46-60
+TXN000339,2025-08-31,04:41:00,Tamil Nadu,Coimbatore,Net Banking,P2P Transfer,Utilities,224.29,Success,iOS,Other,36-45
+TXN000531,2025-08-31,01:41:00,West Bengal,Kolkata,Mobile Wallet,Merchant Payment,Entertainment,281.07,Failed,Web,ICICI Bank,46-60
+TXN000568,2025-08-31,08:09:00,Gujarat,Surat,UPI,Bill Payment,Entertainment,54.16,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000867,2025-08-31,05:03:00,Kerala,Kochi,Net Banking,Bill Payment,Education,197.53,Failed,Web,Other,46-60
+TXN000326,2025-09-01,09:05:00,Delhi,Dwarka,UPI,Online Shopping,Transport,44.07,Success,iOS,HDFC Bank,26-35
+TXN000332,2025-09-01,08:57:00,Tamil Nadu,Madurai,UPI,Bill Payment,Shopping,60.51,Success,iOS,ICICI Bank,18-25
+TXN000657,2025-09-01,17:54:00,West Bengal,Kolkata,Net Banking,P2P Transfer,Education,150.49,Success,Web,Axis Bank,60+
+TXN000852,2025-09-01,21:54:00,Gujarat,Ahmedabad,Mobile Wallet,Bill Payment,Utilities,85.16,Success,Web,Kotak Mahindra Bank,60+
+TXN001037,2025-09-01,15:18:00,Delhi,Dwarka,UPI,Online Shopping,Entertainment,43.56,Success,iOS,Axis Bank,46-60
+TXN000198,2025-09-02,10:59:00,Maharashtra,Mumbai,UPI,Bill Payment,Education,173.08,Success,iOS,ICICI Bank,36-45
+TXN000441,2025-09-02,17:02:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Entertainment,217.91,Pending,Web,Kotak Mahindra Bank,46-60
+TXN000683,2025-09-02,23:08:00,West Bengal,Howrah,Debit Card,Online Shopping,Healthcare,87.84,Success,Android,SBI,46-60
+TXN001199,2025-09-02,19:57:00,Gujarat,Ahmedabad,Credit Card,Merchant Payment,Healthcare,185.66,Success,iOS,Axis Bank,26-35
+TXN000166,2025-09-03,16:26:00,Gujarat,Surat,Net Banking,P2P Transfer,Transport,224.25,Pending,Web,SBI,46-60
+TXN000317,2025-09-03,18:41:00,Karnataka,Mangaluru,Debit Card,Merchant Payment,Entertainment,293.52,Success,Android,ICICI Bank,18-25
+TXN000606,2025-09-03,21:19:00,Tamil Nadu,Coimbatore,Mobile Wallet,Online Shopping,Groceries,969.51,Pending,iOS,HDFC Bank,46-60
+TXN000622,2025-09-03,01:08:00,Karnataka,Mangaluru,Net Banking,P2P Transfer,Shopping,237.81,Success,Web,HDFC Bank,46-60
+TXN000487,2025-09-05,05:31:00,Kerala,Kochi,Net Banking,Bill Payment,Groceries,77.74,Success,Web,Axis Bank,18-25
+TXN000536,2025-09-05,16:09:00,Tamil Nadu,Coimbatore,Credit Card,Recharge,Shopping,155.62,Success,Android,SBI,60+
+TXN000617,2025-09-05,11:18:00,Delhi,New Delhi,Debit Card,Bill Payment,Shopping,165.57,Success,Android,Kotak Mahindra Bank,26-35
+TXN000744,2025-09-06,00:50:00,Telangana,Hyderabad,Debit Card,Online Shopping,Education,152.34,Success,iOS,ICICI Bank,26-35
+TXN000053,2025-09-07,07:17:00,Delhi,Dwarka,Mobile Wallet,P2P Transfer,Education,75.42,Success,Web,Axis Bank,26-35
+TXN000446,2025-09-07,09:16:00,Kerala,Kochi,Mobile Wallet,P2P Transfer,Transport,289.94,Success,iOS,Axis Bank,18-25
+TXN000471,2025-09-07,07:20:00,Maharashtra,Nagpur,Credit Card,Recharge,Utilities,112.72,Success,iOS,ICICI Bank,26-35
+TXN000545,2025-09-07,00:04:00,West Bengal,Howrah,UPI,Bill Payment,Entertainment,12.53,Success,Android,ICICI Bank,36-45
+TXN000844,2025-09-07,05:32:00,Delhi,Howrah,Mobile Wallet,Online Shopping,Utilities,217.55,Success,Android,Other,26-35
+TXN000986,2025-09-07,13:56:00,Delhi,Dwarka,Mobile Wallet,Online Shopping,Shopping,46.6,Success,Web,SBI,60+
+TXN000105,2025-09-08,19:26:00,Karnataka,Mysuru,UPI,Bill Payment,Utilities,126.31,Success,Android,ICICI Bank,18-25
+TXN000222,2025-09-08,23:41:00,Telangana,Warangal,Mobile Wallet,Merchant Payment,Healthcare,22.94,Success,Web,Kotak Mahindra Bank,46-60
+TXN000257,2025-09-08,09:08:00,Maharashtra,Mumbai,Credit Card,Recharge,Groceries,526.85,Success,Android,Axis Bank,26-35
+TXN000745,2025-09-08,00:07:00,Maharashtra,Nagpur,Credit Card,P2P Transfer,Groceries,249.05,Success,Web,ICICI Bank,60+
+TXN001023,2025-09-08,09:00:00,Tamil Nadu,Salem,Credit Card,P2P Transfer,Groceries,144.84,Success,iOS,ICICI Bank,60+
+TXN000830,2025-09-09,02:12:00,Karnataka,Bengaluru,Debit Card,Merchant Payment,Transport,111.97,Success,Web,Kotak Mahindra Bank,26-35
+TXN000836,2025-09-09,12:59:00,Kerala,Thiruvananthapuram,Mobile Wallet,Bill Payment,Education,187.58,Success,Web,Kotak Mahindra Bank,18-25
+TXN000697,2025-09-10,03:54:00,West Bengal,Kolkata,UPI,Bill Payment,Food & Dining,205.64,Success,iOS,HDFC Bank,26-35
+TXN000046,2025-09-11,12:15:00,Gujarat,Ahmedabad,UPI,P2P Transfer,Education,72.25,Success,Web,Kotak Mahindra Bank,46-60
+TXN000268,2025-09-11,08:20:00,Delhi,Dwarka,Credit Card,Online Shopping,Transport,35.51,Success,iOS,ICICI Bank,18-25
+TXN000278,2025-09-11,12:07:00,Delhi,New Delhi,Mobile Wallet,Online Shopping,Food & Dining,81.43,Success,Android,ICICI Bank,36-45
+TXN000566,2025-09-11,13:49:00,Maharashtra,Pune,Debit Card,Recharge,Transport,98.68,Success,Web,ICICI Bank,18-25
+TXN000890,2025-09-11,12:10:00,Gujarat,Surat,UPI,Bill Payment,Utilities,449.76,Success,Android,ICICI Bank,36-45
+TXN001002,2025-09-11,01:13:00,Karnataka,Bengaluru,Debit Card,Recharge,Education,374.14,Success,Android,ICICI Bank,26-35
+TXN000314,2025-09-12,04:21:00,Karnataka,Mangaluru,UPI,Merchant Payment,Healthcare,334.79,Pending,Android,Other,18-25
+TXN000652,2025-09-12,07:40:00,West Bengal,Kolkata,UPI,P2P Transfer,Groceries,457.86,Success,iOS,Other,18-25
+TXN000663,2025-09-12,16:51:00,Kerala,Thiruvananthapuram,Debit Card,Online Shopping,Shopping,143.63,Success,iOS,HDFC Bank,46-60
+TXN000674,2025-09-12,02:15:00,Telangana,Hyderabad,Credit Card,Bill Payment,Education,102.37,Success,Web,HDFC Bank,46-60
+TXN000796,2025-09-12,10:17:00,Kerala,Thiruvananthapuram,Mobile Wallet,Merchant Payment,Entertainment,425.45,Success,Web,SBI,36-45
+TXN000149,2025-09-13,19:34:00,Karnataka,Bengaluru,Net Banking,Online Shopping,Utilities,250.12,Success,iOS,Axis Bank,18-25
+TXN000377,2025-09-13,00:33:00,Maharashtra,Nagpur,UPI,Online Shopping,Education,355.07,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000593,2025-09-13,19:05:00,Maharashtra,Nagpur,Credit Card,Bill Payment,Education,239.6,Success,Android,HDFC Bank,18-25
+TXN000950,2025-09-13,03:29:00,Karnataka,Mysuru,Debit Card,Bill Payment,Transport,189.3,Success,Web,ICICI Bank,36-45
+TXN001044,2025-09-13,21:30:00,Karnataka,Mysuru,Debit Card,Merchant Payment,Food & Dining,142.81,Failed,Android,Other,46-60
+TXN000414,2025-09-14,04:28:00,Tamil Nadu,Coimbatore,Debit Card,P2P Transfer,Shopping,532.55,Success,Android,HDFC Bank,36-45
+TXN000898,2025-09-14,23:59:00,Gujarat,Surat,Debit Card,P2P Transfer,Food & Dining,171.87,Success,Android,HDFC Bank,36-45
+TXN000509,2025-09-15,19:30:00,Maharashtra,Nagpur,Credit Card,Merchant Payment,Education,155.79,Success,Android,HDFC Bank,26-35
+TXN000611,2025-09-15,21:27:00,Telangana,Warangal,UPI,P2P Transfer,Healthcare,285.54,Success,iOS,ICICI Bank,60+
+TXN000826,2025-09-15,18:45:00,Delhi,New Delhi,Debit Card,P2P Transfer,Food & Dining,634.85,Success,Web,Axis Bank,26-35
+TXN000939,2025-09-15,05:00:00,Maharashtra,Pune,Mobile Wallet,Recharge,Shopping,189.39,Failed,Web,ICICI Bank,26-35
+TXN000946,2025-09-15,04:01:00,Karnataka,Mangaluru,Mobile Wallet,Recharge,Groceries,50.9,Success,Android,Other,46-60
+TXN000966,2025-09-15,03:44:00,Telangana,Warangal,Mobile Wallet,Recharge,Education,626.48,Success,Web,Axis Bank,60+
+TXN000135,2025-09-16,20:11:00,Karnataka,Bengaluru,Debit Card,Recharge,Entertainment,59.18,Success,Web,HDFC Bank,36-45
+TXN000643,2025-09-16,18:04:00,Delhi,New Delhi,Net Banking,P2P Transfer,Utilities,114.48,Success,iOS,HDFC Bank,60+
+TXN000182,2025-09-17,16:34:00,Kerala,Thiruvananthapuram,Net Banking,Bill Payment,Entertainment,62.98,Success,iOS,ICICI Bank,18-25
+TXN000727,2025-09-17,15:46:00,West Bengal,Kolkata,Debit Card,Bill Payment,Healthcare,151.17,Success,Android,HDFC Bank,46-60
+TXN000831,2025-09-17,02:27:00,Delhi,Rohini,Mobile Wallet,Bill Payment,Transport,38.69,Success,Android,Axis Bank,26-35
+TXN000874,2025-09-17,09:23:00,Karnataka,Mangaluru,Debit Card,Recharge,Groceries,71.46,Success,Android,Kotak Mahindra Bank,36-45
+TXN000500,2025-09-18,22:06:00,Gujarat,Surat,Mobile Wallet,Online Shopping,Food & Dining,37.23,Success,Web,Axis Bank,60+
+TXN000546,2025-09-18,03:25:00,Maharashtra,Nagpur,UPI,Bill Payment,Food & Dining,66.89,Success,Web,Axis Bank,46-60
+TXN001077,2025-09-19,02:15:00,Karnataka,Bengaluru,Credit Card,Online Shopping,Healthcare,31.29,Success,Web,Axis Bank,18-25
+TXN000708,2025-09-20,03:32:00,Tamil Nadu,Salem,Mobile Wallet,P2P Transfer,Entertainment,858.16,Success,Web,ICICI Bank,36-45
+TXN000780,2025-09-20,20:48:00,Gujarat,Surat,Credit Card,Online Shopping,Transport,276.07,Success,iOS,Kotak Mahindra Bank,36-45
+TXN000953,2025-09-20,19:20:00,Kerala,Thiruvananthapuram,UPI,Recharge,Entertainment,42.46,Success,Web,SBI,60+
+TXN001115,2025-09-20,23:01:00,Gujarat,Surat,Credit Card,Recharge,Utilities,172.5,Success,Web,Kotak Mahindra Bank,46-60
+TXN000264,2025-09-21,21:52:00,Telangana,Hyderabad,Debit Card,Recharge,Groceries,53.28,Pending,Web,HDFC Bank,26-35
+TXN000393,2025-09-21,16:28:00,Kerala,Thiruvananthapuram,UPI,Bill Payment,Utilities,39.64,Success,Android,SBI,26-35
+TXN000579,2025-09-21,22:49:00,Tamil Nadu,Salem,Mobile Wallet,Recharge,Education,33.83,Success,Android,Kotak Mahindra Bank,26-35
+TXN001168,2025-09-21,19:46:00,Delhi,Dwarka,Mobile Wallet,P2P Transfer,Entertainment,260.84,Success,Android,Axis Bank,46-60
+TXN000413,2025-09-22,08:24:00,Karnataka,Bengaluru,Net Banking,Recharge,Healthcare,32.0,Success,iOS,Axis Bank,46-60
+TXN000730,2025-09-22,21:23:00,West Bengal,Kolkata,Mobile Wallet,Merchant Payment,Groceries,68.15,Success,Web,SBI,18-25
+TXN000156,2025-09-23,08:51:00,Kerala,Kochi,Mobile Wallet,P2P Transfer,Education,72.65,Success,Android,Kotak Mahindra Bank,36-45
+TXN000186,2025-09-23,06:35:00,Maharashtra,Pune,Mobile Wallet,Online Shopping,Education,303.08,Success,Android,Axis Bank,60+
+TXN000272,2025-09-23,21:28:00,Delhi,New Delhi,UPI,Bill Payment,Food & Dining,35.31,Pending,iOS,Other,26-35
+TXN000792,2025-09-23,14:11:00,West Bengal,Howrah,Credit Card,Online Shopping,Entertainment,182.67,Success,iOS,Axis Bank,36-45
+TXN000424,2025-09-24,00:24:00,Karnataka,Mangaluru,Debit Card,Bill Payment,Education,392.12,Success,Android,Axis Bank,60+
+TXN001034,2025-09-24,03:15:00,Karnataka,Bengaluru,UPI,Recharge,Groceries,283.5,Success,iOS,Axis Bank,18-25
+TXN000476,2025-09-25,21:04:00,Karnataka,Bengaluru,Debit Card,Merchant Payment,Groceries,115.7,Success,iOS,HDFC Bank,18-25
+TXN001000,2025-09-25,16:15:00,Karnataka,Mangaluru,Mobile Wallet,Recharge,Shopping,263.11,Success,Web,Axis Bank,26-35
+TXN000335,2025-09-26,18:01:00,Maharashtra,Mumbai,Debit Card,Merchant Payment,Groceries,393.52,Success,iOS,SBI,36-45
+TXN001015,2025-09-26,16:10:00,Delhi,New Delhi,UPI,P2P Transfer,Shopping,842.15,Success,iOS,Axis Bank,46-60
+TXN001063,2025-09-27,08:20:00,Delhi,Rohini,Net Banking,Online Shopping,Food & Dining,468.14,Success,iOS,Other,60+
+TXN001112,2025-09-27,03:32:00,Tamil Nadu,Salem,Mobile Wallet,P2P Transfer,Transport,184.46,Success,Android,HDFC Bank,26-35
+TXN000202,2025-09-28,22:23:00,West Bengal,Kolkata,Net Banking,P2P Transfer,Groceries,260.03,Success,Web,HDFC Bank,60+
+TXN000208,2025-09-28,04:46:00,Gujarat,Ahmedabad,UPI,P2P Transfer,Shopping,248.09,Success,Web,Kotak Mahindra Bank,46-60
+TXN000254,2025-09-28,20:20:00,West Bengal,Howrah,Net Banking,Recharge,Food & Dining,416.74,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000479,2025-09-28,01:46:00,Telangana,Hyderabad,Credit Card,P2P Transfer,Utilities,3225.62,Failed,Android,SBI,26-35
+TXN000093,2025-09-29,13:36:00,Delhi,Rohini,Debit Card,Merchant Payment,Transport,73.55,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000928,2025-09-29,10:38:00,Gujarat,Ahmedabad,Mobile Wallet,Merchant Payment,Shopping,216.42,Success,iOS,ICICI Bank,18-25
+TXN001103,2025-09-29,21:11:00,West Bengal,Howrah,Debit Card,Bill Payment,Entertainment,1197.96,Success,Web,Axis Bank,60+
+TXN000569,2025-09-30,20:22:00,Karnataka,Mysuru,Net Banking,Bill Payment,Healthcare,22.86,Success,Android,ICICI Bank,60+
+TXN000771,2025-09-30,14:20:00,Gujarat,Ahmedabad,Mobile Wallet,Merchant Payment,Healthcare,301.19,Success,Web,SBI,26-35
+TXN001171,2025-09-30,23:25:00,Tamil Nadu,Coimbatore,Debit Card,P2P Transfer,Food & Dining,317.01,Success,Android,Other,46-60
+TXN000399,2025-10-01,07:08:00,Maharashtra,Nagpur,Mobile Wallet,Online Shopping,Shopping,132.35,Failed,Android,ICICI Bank,36-45
+TXN000584,2025-10-01,14:01:00,West Bengal,Kolkata,Credit Card,P2P Transfer,Healthcare,1437.55,Success,Android,Axis Bank,18-25
+TXN000620,2025-10-01,09:07:00,Maharashtra,Mumbai,Mobile Wallet,Recharge,Transport,185.65,Failed,iOS,HDFC Bank,18-25
+TXN000678,2025-10-01,07:54:00,Karnataka,Mysuru,Mobile Wallet,P2P Transfer,Education,856.0,Failed,iOS,ICICI Bank,18-25
+TXN000994,2025-10-01,16:02:00,Tamil Nadu,Madurai,UPI,P2P Transfer,Entertainment,75.04,Success,iOS,Other,36-45
+TXN000664,2025-10-02,06:18:00,Karnataka,Mysuru,UPI,Bill Payment,Education,86.19,Success,Web,Other,18-25
+TXN000790,2025-10-02,09:50:00,Delhi,New Delhi,Credit Card,Merchant Payment,Groceries,28.19,Success,iOS,HDFC Bank,60+
+TXN000878,2025-10-02,06:04:00,Maharashtra,Nagpur,Credit Card,Merchant Payment,Healthcare,185.64,Success,Web,Kotak Mahindra Bank,60+
+TXN000895,2025-10-02,08:06:00,Maharashtra,Pune,Mobile Wallet,Merchant Payment,Transport,591.2,Success,iOS,SBI,36-45
+TXN000624,2025-10-03,14:43:00,Karnataka,Mangaluru,UPI,Online Shopping,Education,569.88,Success,iOS,Kotak Mahindra Bank,60+
+TXN001085,2025-10-03,07:49:00,Maharashtra,Pune,Net Banking,Merchant Payment,Shopping,217.44,Success,iOS,ICICI Bank,18-25
+TXN000223,2025-10-05,20:03:00,Maharashtra,Nagpur,UPI,P2P Transfer,Groceries,294.79,Success,iOS,HDFC Bank,26-35
+TXN000325,2025-10-05,13:48:00,Kerala,Kochi,Net Banking,P2P Transfer,Education,54.27,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000106,2025-10-06,20:22:00,Kerala,Kochi,Mobile Wallet,Bill Payment,Transport,222.31,Failed,iOS,SBI,26-35
+TXN000925,2025-10-06,09:06:00,Karnataka,Mangaluru,Mobile Wallet,Merchant Payment,Groceries,490.31,Failed,Android,HDFC Bank,46-60
+TXN001104,2025-10-06,15:18:00,Kerala,Kochi,Debit Card,P2P Transfer,Shopping,129.08,Success,iOS,ICICI Bank,26-35
+TXN000187,2025-10-07,11:43:00,Kerala,Thiruvananthapuram,Net Banking,Recharge,Utilities,238.23,Failed,iOS,Kotak Mahindra Bank,36-45
+TXN001016,2025-10-07,08:42:00,Kerala,Thiruvananthapuram,Credit Card,Bill Payment,Entertainment,180.89,Success,iOS,ICICI Bank,36-45
+TXN000459,2025-10-08,11:12:00,Tamil Nadu,Salem,Net Banking,Recharge,Education,85.32,Success,Web,Other,46-60
+TXN000016,2025-10-09,05:16:00,West Bengal,Howrah,Debit Card,Online Shopping,Utilities,84.58,Success,iOS,Other,36-45
+TXN000179,2025-10-09,08:52:00,West Bengal,Kolkata,Debit Card,P2P Transfer,Education,113.9,Success,iOS,Kotak Mahindra Bank,36-45
+TXN000260,2025-10-09,16:07:00,West Bengal,Kolkata,Credit Card,Online Shopping,Healthcare,322.03,Success,Android,Other,46-60
+TXN000518,2025-10-09,12:02:00,Gujarat,Ahmedabad,Credit Card,Online Shopping,Transport,55.84,Success,Android,HDFC Bank,18-25
+TXN000083,2025-10-10,00:35:00,Telangana,Warangal,UPI,Merchant Payment,Food & Dining,650.6,Success,Android,Other,26-35
+TXN000251,2025-10-10,05:21:00,Maharashtra,Nagpur,Mobile Wallet,Recharge,Utilities,42.06,Success,Web,HDFC Bank,26-35
+TXN000970,2025-10-10,12:07:00,West Bengal,Kolkata,Mobile Wallet,P2P Transfer,Healthcare,35.49,Failed,iOS,Axis Bank,46-60
+TXN001055,2025-10-10,15:08:00,Karnataka,Mysuru,UPI,P2P Transfer,Groceries,85.6,Success,Android,Other,36-45
+TXN000012,2025-10-11,00:43:00,Telangana,Hyderabad,Net Banking,Bill Payment,Healthcare,93.16,Success,iOS,HDFC Bank,46-60
+TXN000144,2025-10-11,03:45:00,Kerala,Kochi,Credit Card,P2P Transfer,Transport,178.51,Success,Web,HDFC Bank,46-60
+TXN000400,2025-10-11,17:09:00,Tamil Nadu,Chennai,UPI,P2P Transfer,Education,511.74,Success,Android,ICICI Bank,26-35
+TXN000437,2025-10-11,05:30:00,Karnataka,Mysuru,Credit Card,Merchant Payment,Shopping,756.43,Success,Web,Other,26-35
+TXN000485,2025-10-11,16:35:00,Telangana,Hyderabad,UPI,P2P Transfer,Entertainment,69.66,Success,Android,ICICI Bank,36-45
+TXN000975,2025-10-11,05:20:00,Telangana,Hyderabad,UPI,P2P Transfer,Groceries,94.99,Success,Web,Kotak Mahindra Bank,26-35
+TXN000695,2025-10-12,21:40:00,Maharashtra,Pune,UPI,Merchant Payment,Transport,268.57,Success,Android,SBI,46-60
+TXN000760,2025-10-12,08:56:00,Maharashtra,Pune,Debit Card,Online Shopping,Healthcare,298.96,Failed,iOS,Other,36-45
+TXN000047,2025-10-13,07:58:00,Tamil Nadu,Chennai,Mobile Wallet,Merchant Payment,Entertainment,93.63,Success,Web,Kotak Mahindra Bank,36-45
+TXN000101,2025-10-13,11:05:00,Gujarat,Surat,UPI,Bill Payment,Food & Dining,36.04,Success,Web,Other,36-45
+TXN000723,2025-10-13,01:01:00,Delhi,Dwarka,Credit Card,Bill Payment,Transport,38.54,Success,Web,SBI,18-25
+TXN001084,2025-10-14,16:04:00,Kerala,Thiruvananthapuram,Mobile Wallet,Online Shopping,Utilities,1184.11,Success,iOS,HDFC Bank,60+
+TXN000119,2025-10-15,19:39:00,Gujarat,Ahmedabad,Net Banking,Bill Payment,Groceries,465.37,Success,Web,ICICI Bank,36-45
+TXN000726,2025-10-15,01:32:00,Karnataka,Bengaluru,Debit Card,P2P Transfer,Utilities,123.47,Success,Android,Other,36-45
+TXN000835,2025-10-15,19:30:00,Gujarat,Ahmedabad,Credit Card,Merchant Payment,Entertainment,143.35,Success,Android,SBI,18-25
+TXN000330,2025-10-16,03:50:00,Karnataka,Mysuru,Net Banking,Bill Payment,Education,278.2,Success,Web,Axis Bank,60+
+TXN000698,2025-10-16,21:37:00,Telangana,Hyderabad,Net Banking,P2P Transfer,Transport,42.47,Success,Android,HDFC Bank,46-60
+TXN000097,2025-10-17,21:49:00,Tamil Nadu,Chennai,Net Banking,Recharge,Shopping,199.56,Success,Android,Kotak Mahindra Bank,36-45
+TXN000259,2025-10-17,00:50:00,Karnataka,Bengaluru,Credit Card,P2P Transfer,Shopping,231.32,Success,iOS,HDFC Bank,46-60
+TXN000668,2025-10-17,23:40:00,Gujarat,Ahmedabad,Net Banking,Merchant Payment,Healthcare,667.8,Success,Android,HDFC Bank,36-45
+TXN000160,2025-10-18,01:38:00,Gujarat,Ahmedabad,Mobile Wallet,Bill Payment,Healthcare,286.16,Success,Android,Kotak Mahindra Bank,26-35
+TXN000548,2025-10-18,10:34:00,Gujarat,Ahmedabad,Debit Card,P2P Transfer,Entertainment,121.14,Success,Web,Axis Bank,36-45
+TXN000958,2025-10-18,01:38:00,Kerala,Thiruvananthapuram,UPI,Bill Payment,Education,234.34,Pending,Android,SBI,26-35
+TXN000263,2025-10-19,11:34:00,Tamil Nadu,Madurai,Net Banking,Online Shopping,Transport,5.81,Success,Web,ICICI Bank,36-45
+TXN000944,2025-10-19,18:02:00,Karnataka,Mangaluru,Mobile Wallet,P2P Transfer,Groceries,134.4,Success,iOS,SBI,36-45
+TXN000952,2025-10-19,15:02:00,Karnataka,Mysuru,Credit Card,Recharge,Education,211.04,Success,Web,HDFC Bank,46-60
+TXN000134,2025-10-20,20:12:00,West Bengal,Howrah,Net Banking,Recharge,Transport,238.31,Failed,iOS,SBI,36-45
+TXN000238,2025-10-20,16:10:00,Delhi,Rohini,Mobile Wallet,Merchant Payment,Transport,178.83,Success,iOS,Axis Bank,26-35
+TXN000477,2025-10-20,20:53:00,Tamil Nadu,Salem,Mobile Wallet,Online Shopping,Shopping,264.16,Success,Android,Kotak Mahindra Bank,18-25
+TXN000189,2025-10-21,21:34:00,Karnataka,Mysuru,Mobile Wallet,Bill Payment,Transport,63.64,Success,iOS,Other,18-25
+TXN000361,2025-10-21,21:31:00,Karnataka,Bengaluru,UPI,Online Shopping,Food & Dining,249.47,Success,Android,ICICI Bank,26-35
+TXN000858,2025-10-21,11:08:00,Karnataka,Mysuru,Mobile Wallet,Online Shopping,Groceries,237.8,Success,Web,Kotak Mahindra Bank,26-35
+TXN000052,2025-10-22,12:30:00,Tamil Nadu,Chennai,Credit Card,Bill Payment,Education,100.98,Success,iOS,Kotak Mahindra Bank,60+
+TXN000396,2025-10-22,07:58:00,Karnataka,Mysuru,Mobile Wallet,Recharge,Entertainment,92.84,Success,iOS,ICICI Bank,18-25
+TXN000682,2025-10-22,02:07:00,Kerala,Kochi,Debit Card,Online Shopping,Transport,47.99,Success,Web,Axis Bank,36-45
+TXN000810,2025-10-22,01:47:00,West Bengal,Kolkata,Credit Card,Recharge,Healthcare,60.67,Success,Web,ICICI Bank,46-60
+TXN000212,2025-10-23,19:49:00,Kerala,Thiruvananthapuram,Debit Card,Bill Payment,Transport,462.0,Pending,Web,HDFC Bank,46-60
+TXN000448,2025-10-23,18:41:00,Delhi,Rohini,Net Banking,Merchant Payment,Shopping,57.98,Success,Web,Kotak Mahindra Bank,46-60
+TXN000717,2025-10-24,19:46:00,West Bengal,Howrah,UPI,Recharge,Education,166.37,Success,Web,Other,60+
+TXN000152,2025-10-25,23:48:00,Karnataka,Mysuru,Debit Card,P2P Transfer,Healthcare,209.86,Success,Web,HDFC Bank,46-60
+TXN000267,2025-10-25,00:55:00,Kerala,Kochi,Mobile Wallet,Bill Payment,Food & Dining,759.31,Success,iOS,HDFC Bank,46-60
+TXN000403,2025-10-25,15:21:00,Delhi,Dwarka,Debit Card,Merchant Payment,Food & Dining,149.19,Success,Android,HDFC Bank,36-45
+TXN000183,2025-10-26,09:50:00,Gujarat,Ahmedabad,Net Banking,Recharge,Shopping,50.86,Failed,Web,Kotak Mahindra Bank,26-35
+TXN000184,2025-10-26,15:10:00,Tamil Nadu,Salem,Mobile Wallet,Merchant Payment,Groceries,240.44,Success,Web,SBI,26-35
+TXN000344,2025-10-26,22:36:00,Tamil Nadu,Coimbatore,Credit Card,Merchant Payment,Entertainment,89.39,Failed,Web,ICICI Bank,60+
+TXN001014,2025-10-26,00:31:00,West Bengal,Kolkata,Mobile Wallet,P2P Transfer,Groceries,74.5,Success,Web,Other,36-45
+TXN000010,2025-10-27,13:57:00,Telangana,Warangal,Credit Card,Merchant Payment,Transport,255.33,Success,Android,SBI,18-25
+TXN000599,2025-10-27,15:03:00,West Bengal,Howrah,Debit Card,Merchant Payment,Entertainment,95.17,Success,iOS,HDFC Bank,46-60
+TXN000709,2025-10-27,02:49:00,Telangana,Hyderabad,UPI,Recharge,Transport,18.51,Success,iOS,SBI,18-25
+TXN001043,2025-10-27,19:53:00,Kerala,Thiruvananthapuram,UPI,P2P Transfer,Groceries,436.45,Success,Android,HDFC Bank,18-25
+TXN000627,2025-10-28,19:05:00,Maharashtra,Mumbai,Debit Card,Bill Payment,Entertainment,55.17,Pending,Web,ICICI Bank,18-25
+TXN000778,2025-10-28,06:06:00,Kerala,Kochi,UPI,Online Shopping,Food & Dining,115.87,Success,Android,Kotak Mahindra Bank,26-35
+TXN000072,2025-10-29,13:19:00,Telangana,Howrah,Net Banking,P2P Transfer,Utilities,690.93,Success,iOS,Other,18-25
+TXN000751,2025-10-29,01:31:00,Gujarat,Ahmedabad,Credit Card,Recharge,Transport,58.95,Success,Web,ICICI Bank,46-60
+TXN000516,2025-10-30,22:57:00,West Bengal,Kolkata,Mobile Wallet,P2P Transfer,Shopping,315.89,Success,Web,Other,26-35
+TXN000993,2025-10-30,12:15:00,Kerala,Kochi,Credit Card,P2P Transfer,Groceries,115.91,Failed,iOS,HDFC Bank,46-60
+TXN000243,2025-10-31,17:11:00,Delhi,Rohini,Net Banking,P2P Transfer,Entertainment,245.92,Success,Android,Axis Bank,36-45
+TXN000616,2025-10-31,21:44:00,West Bengal,Howrah,Mobile Wallet,Bill Payment,Transport,168.89,Failed,iOS,HDFC Bank,36-45
+TXN000665,2025-10-31,10:17:00,Karnataka,Bengaluru,Net Banking,Online Shopping,Entertainment,72.76,Success,iOS,SBI,36-45
+TXN000026,2025-11-01,02:43:00,Karnataka,Bengaluru,Mobile Wallet,P2P Transfer,Utilities,165.82,Success,Android,Kotak Mahindra Bank,18-25
+TXN000138,2025-11-01,22:05:00,Maharashtra,Pune,Net Banking,Recharge,Healthcare,107.55,Success,Web,Other,60+
+TXN000237,2025-11-02,19:50:00,Karnataka,Mysuru,Mobile Wallet,P2P Transfer,Shopping,19.59,Success,Android,Other,60+
+TXN000389,2025-11-02,01:49:00,Kerala,Thiruvananthapuram,Mobile Wallet,Online Shopping,Healthcare,383.92,Success,Web,ICICI Bank,60+
+TXN000484,2025-11-02,00:33:00,Telangana,Hyderabad,Credit Card,P2P Transfer,Shopping,181.9,Pending,Android,ICICI Bank,18-25
+TXN000085,2025-11-03,16:47:00,Delhi,New Delhi,UPI,Bill Payment,Education,66.12,Success,Web,ICICI Bank,18-25
+TXN001187,2025-11-03,18:46:00,Karnataka,Mysuru,UPI,Bill Payment,Utilities,55.56,Success,Web,Axis Bank,18-25
+TXN000965,2025-11-04,12:13:00,Maharashtra,Pune,Debit Card,Merchant Payment,Groceries,135.68,Success,iOS,SBI,36-45
+TXN001061,2025-11-05,20:56:00,Kerala,Kochi,Credit Card,Merchant Payment,Education,321.08,Success,Android,Other,18-25
+TXN000077,2025-11-06,08:01:00,Kerala,Kochi,Debit Card,Online Shopping,Groceries,161.91,Pending,Web,ICICI Bank,60+
+TXN000372,2025-11-06,19:40:00,Karnataka,Mysuru,Net Banking,Online Shopping,Utilities,244.2,Success,iOS,ICICI Bank,36-45
+TXN000711,2025-11-06,08:55:00,Karnataka,Mangaluru,UPI,Recharge,Groceries,183.28,Success,Android,SBI,26-35
+TXN001176,2025-11-06,12:58:00,Tamil Nadu,Coimbatore,Credit Card,Bill Payment,Groceries,112.09,Success,Android,Axis Bank,26-35
+TXN000201,2025-11-07,11:26:00,West Bengal,Howrah,Net Banking,Merchant Payment,Utilities,212.25,Success,Web,SBI,60+
+TXN000420,2025-11-07,03:11:00,Maharashtra,Pune,Net Banking,Online Shopping,Groceries,158.78,Success,Web,Kotak Mahindra Bank,18-25
+TXN000508,2025-11-07,18:39:00,Telangana,Hyderabad,Net Banking,Merchant Payment,Utilities,62.55,Success,iOS,SBI,46-60
+TXN000889,2025-11-07,14:10:00,Tamil Nadu,Coimbatore,Debit Card,P2P Transfer,Healthcare,267.91,Success,Web,ICICI Bank,18-25
+TXN000762,2025-11-08,15:00:00,Tamil Nadu,Chennai,Debit Card,Recharge,Entertainment,167.67,Success,Web,SBI,18-25
+TXN001068,2025-11-08,10:59:00,Tamil Nadu,Madurai,Net Banking,Merchant Payment,Groceries,473.82,Success,Web,Axis Bank,46-60
+TXN001173,2025-11-08,23:40:00,Maharashtra,Mumbai,Mobile Wallet,Online Shopping,Food & Dining,164.71,Success,Web,Other,36-45
+TXN000587,2025-11-09,05:53:00,West Bengal,Kolkata,UPI,P2P Transfer,Entertainment,93.75,Success,Web,HDFC Bank,18-25
+TXN000048,2025-11-10,23:57:00,West Bengal,Howrah,Net Banking,Recharge,Transport,427.14,Success,iOS,ICICI Bank,36-45
+TXN000283,2025-11-10,19:03:00,West Bengal,Howrah,Debit Card,P2P Transfer,Groceries,724.89,Success,Web,SBI,26-35
+TXN000210,2025-11-11,00:15:00,Gujarat,Ahmedabad,UPI,P2P Transfer,Groceries,6993.47,Success,Web,Other,18-25
+TXN000255,2025-11-11,18:05:00,Telangana,Hyderabad,Credit Card,P2P Transfer,Utilities,32.48,Success,Android,ICICI Bank,26-35
+TXN000351,2025-11-11,13:40:00,Maharashtra,Pune,Mobile Wallet,Recharge,Entertainment,202.53,Success,Android,Kotak Mahindra Bank,26-35
+TXN000765,2025-11-11,20:19:00,Karnataka,Mangaluru,Debit Card,Merchant Payment,Entertainment,468.38,Failed,Android,ICICI Bank,46-60
+TXN001109,2025-11-11,19:21:00,Karnataka,Bengaluru,Net Banking,Online Shopping,Groceries,79.54,Failed,Android,Axis Bank,18-25
+TXN000191,2025-11-12,23:37:00,Karnataka,Bengaluru,Debit Card,P2P Transfer,Utilities,94.96,Success,Android,SBI,46-60
+TXN000564,2025-11-12,08:17:00,Maharashtra,Pune,UPI,P2P Transfer,Transport,107.12,Failed,Web,HDFC Bank,46-60
+TXN001153,2025-11-12,14:37:00,West Bengal,Howrah,Mobile Wallet,Recharge,Utilities,78.34,Success,iOS,Kotak Mahindra Bank,36-45
+TXN000091,2025-11-13,02:15:00,Tamil Nadu,Madurai,Debit Card,P2P Transfer,Education,163.54,Pending,Web,Other,18-25
+TXN000594,2025-11-13,11:55:00,Karnataka,Mangaluru,Net Banking,Merchant Payment,Entertainment,207.2,Success,Web,HDFC Bank,36-45
+TXN000689,2025-11-13,14:58:00,Delhi,New Delhi,Credit Card,Online Shopping,Entertainment,302.16,Success,iOS,HDFC Bank,36-45
+TXN000892,2025-11-13,15:03:00,West Bengal,Howrah,UPI,Online Shopping,Entertainment,246.48,Success,iOS,SBI,18-25
+TXN000976,2025-11-13,22:34:00,Tamil Nadu,Chennai,Net Banking,Recharge,Groceries,22.43,Success,Android,Axis Bank,36-45
+TXN000440,2025-11-14,10:31:00,Kerala,Thiruvananthapuram,Mobile Wallet,Merchant Payment,Shopping,140.39,Success,Web,HDFC Bank,18-25
+TXN001010,2025-11-14,22:45:00,Delhi,Dwarka,Mobile Wallet,Recharge,Food & Dining,86.9,Success,Web,ICICI Bank,46-60
+TXN001079,2025-11-15,00:10:00,Telangana,Warangal,UPI,Bill Payment,Transport,665.65,Failed,Android,SBI,60+
+TXN000113,2025-11-16,20:37:00,Telangana,Warangal,Mobile Wallet,Online Shopping,Shopping,157.63,Success,Web,Axis Bank,18-25
+TXN000969,2025-11-16,17:06:00,West Bengal,Howrah,Net Banking,Online Shopping,Groceries,142.57,Success,iOS,HDFC Bank,26-35
+TXN000394,2025-11-17,02:13:00,Tamil Nadu,Coimbatore,Mobile Wallet,P2P Transfer,Utilities,926.54,Success,Web,Other,46-60
+TXN000407,2025-11-17,02:46:00,Telangana,Hyderabad,UPI,Online Shopping,Groceries,51.03,Success,Web,Axis Bank,60+
+TXN000502,2025-11-17,09:15:00,Kerala,Thiruvananthapuram,UPI,Bill Payment,Education,1001.66,Failed,Android,Kotak Mahindra Bank,36-45
+TXN000659,2025-11-17,10:24:00,Tamil Nadu,Chennai,Mobile Wallet,Bill Payment,Healthcare,180.93,Success,Android,Other,26-35
+TXN000947,2025-11-17,02:45:00,Karnataka,Bengaluru,Debit Card,Merchant Payment,Transport,32.28,Pending,Web,Kotak Mahindra Bank,60+
+TXN001019,2025-11-17,21:34:00,Telangana,Warangal,Net Banking,Merchant Payment,Shopping,107.73,Failed,iOS,ICICI Bank,46-60
+TXN000011,2025-11-18,05:50:00,Maharashtra,Nagpur,Mobile Wallet,Online Shopping,Food & Dining,93.37,Success,Web,Axis Bank,60+
+TXN000275,2025-11-18,23:09:00,Delhi,Dwarka,Net Banking,Recharge,Utilities,55.62,Success,Android,HDFC Bank,18-25
+TXN000634,2025-11-18,05:48:00,Delhi,New Delhi,Net Banking,Merchant Payment,Healthcare,96.85,Success,Web,ICICI Bank,36-45
+TXN001033,2025-11-18,09:46:00,Telangana,Hyderabad,Mobile Wallet,Online Shopping,Utilities,221.23,Success,Android,HDFC Bank,60+
+TXN000467,2025-11-19,23:02:00,Maharashtra,Nagpur,Net Banking,Online Shopping,Food & Dining,274.28,Success,Web,ICICI Bank,26-35
+TXN000560,2025-11-19,23:42:00,West Bengal,Kolkata,Net Banking,Online Shopping,Shopping,97.42,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000729,2025-11-19,21:15:00,Kerala,Kochi,Net Banking,Recharge,Utilities,86.51,Success,iOS,Axis Bank,46-60
+TXN000153,2025-11-20,05:51:00,West Bengal,Kolkata,UPI,Recharge,Groceries,75.19,Success,Android,HDFC Bank,18-25
+TXN000456,2025-11-20,23:40:00,West Bengal,Howrah,Net Banking,Online Shopping,Shopping,67.16,Failed,iOS,Kotak Mahindra Bank,26-35
+TXN000600,2025-11-20,11:17:00,Delhi,New Delhi,Credit Card,Merchant Payment,Groceries,216.44,Success,Android,ICICI Bank,26-35
+TXN000759,2025-11-20,06:37:00,Kerala,Thiruvananthapuram,UPI,Merchant Payment,Food & Dining,62.91,Success,iOS,Other,18-25
+TXN001148,2025-11-20,21:53:00,West Bengal,Kolkata,UPI,Online Shopping,Education,35.16,Success,Web,HDFC Bank,46-60
+TXN000350,2025-11-21,01:00:00,Kerala,Thiruvananthapuram,Credit Card,Merchant Payment,Transport,119.89,Success,Android,ICICI Bank,18-25
+TXN000386,2025-11-21,22:45:00,Delhi,Rohini,Credit Card,Online Shopping,Utilities,172.5,Success,Android,ICICI Bank,46-60
+TXN000098,2025-11-22,06:39:00,Delhi,Dwarka,Debit Card,P2P Transfer,Groceries,192.68,Success,iOS,SBI,60+
+TXN000838,2025-11-22,22:23:00,West Bengal,Kolkata,Mobile Wallet,Recharge,Utilities,54.69,Success,Android,ICICI Bank,18-25
+TXN000886,2025-11-22,02:19:00,Telangana,Warangal,Credit Card,P2P Transfer,Food & Dining,940.78,Success,Android,SBI,26-35
+TXN000049,2025-11-23,08:49:00,Delhi,Rohini,Mobile Wallet,Merchant Payment,Shopping,209.27,Success,Web,ICICI Bank,26-35
+TXN000102,2025-11-23,11:06:00,Gujarat,Ahmedabad,Mobile Wallet,P2P Transfer,Healthcare,97.45,Failed,Android,Other,18-25
+TXN000294,2025-11-23,12:04:00,Maharashtra,Nagpur,Net Banking,P2P Transfer,Education,347.1,Success,Android,HDFC Bank,36-45
+TXN000793,2025-11-23,18:41:00,Gujarat,Ahmedabad,Debit Card,Merchant Payment,Utilities,194.72,Success,Android,Axis Bank,26-35
+TXN000356,2025-11-24,08:49:00,Gujarat,Ahmedabad,Net Banking,P2P Transfer,Food & Dining,54.46,Success,Android,SBI,18-25
+TXN000274,2025-11-25,21:09:00,Maharashtra,Mumbai,Net Banking,Online Shopping,Groceries,149.94,Success,Android,Axis Bank,36-45
+TXN000915,2025-11-25,07:52:00,Tamil Nadu,Coimbatore,Net Banking,P2P Transfer,Groceries,134.92,Success,Web,Kotak Mahindra Bank,36-45
+TXN000996,2025-11-25,03:53:00,West Bengal,Howrah,Net Banking,P2P Transfer,Groceries,112.04,Success,Android,HDFC Bank,18-25
+TXN000369,2025-11-26,05:32:00,Tamil Nadu,Salem,Mobile Wallet,Merchant Payment,Food & Dining,163.64,Success,iOS,HDFC Bank,36-45
+TXN000672,2025-11-26,01:46:00,Maharashtra,Pune,UPI,P2P Transfer,Food & Dining,18.66,Success,iOS,SBI,46-60
+TXN000139,2025-11-27,21:27:00,Karnataka,Mangaluru,Credit Card,P2P Transfer,Healthcare,334.79,Success,Android,ICICI Bank,46-60
+TXN000550,2025-11-27,21:03:00,West Bengal,Kolkata,Debit Card,Merchant Payment,Groceries,81.13,Success,Web,HDFC Bank,46-60
+TXN000748,2025-11-27,02:55:00,Telangana,Hyderabad,UPI,Online Shopping,Shopping,69.73,Success,Android,Other,60+
+TXN001042,2025-11-27,15:24:00,Karnataka,Mysuru,Net Banking,Merchant Payment,Shopping,93.8,Success,iOS,Kotak Mahindra Bank,60+
+TXN001149,2025-11-27,21:50:00,Kerala,Thiruvananthapuram,Debit Card,Bill Payment,Shopping,731.07,Success,Android,ICICI Bank,26-35
+TXN000621,2025-11-28,22:18:00,Kerala,Thiruvananthapuram,Credit Card,Online Shopping,Transport,67.32,Success,Web,Axis Bank,36-45
+TXN000270,2025-11-29,09:10:00,Maharashtra,Pune,UPI,Bill Payment,Shopping,169.14,Success,Web,Other,26-35
+TXN000312,2025-11-29,10:11:00,West Bengal,Howrah,Debit Card,Online Shopping,Transport,445.31,Success,Web,Other,36-45
+TXN000365,2025-11-29,05:07:00,Gujarat,Howrah,UPI,Merchant Payment,Food & Dining,295.94,Success,Web,Axis Bank,60+
+TXN000714,2025-11-29,04:41:00,West Bengal,Kolkata,Mobile Wallet,Online Shopping,Utilities,221.22,Success,iOS,HDFC Bank,46-60
+TXN000734,2025-11-29,12:49:00,Kerala,Kochi,Credit Card,P2P Transfer,Groceries,27.04,Success,iOS,Other,26-35
+TXN000869,2025-11-29,12:17:00,West Bengal,Howrah,Credit Card,P2P Transfer,Food & Dining,286.73,Success,Android,Axis Bank,60+
+TXN000171,2025-11-30,06:49:00,Telangana,Warangal,Net Banking,P2P Transfer,Entertainment,60.98,Failed,Web,ICICI Bank,36-45
+TXN000737,2025-11-30,03:28:00,Tamil Nadu,Madurai,Net Banking,P2P Transfer,Entertainment,191.72,Success,Android,Other,60+
+TXN001135,2025-11-30,11:11:00,Gujarat,Ahmedabad,Credit Card,Recharge,Healthcare,116.26,Success,Android,Kotak Mahindra Bank,60+
+TXN000585,2025-12-01,21:33:00,Delhi,Dwarka,Net Banking,Merchant Payment,Utilities,178.01,Failed,Android,Other,26-35
+TXN000586,2025-12-01,00:30:00,West Bengal,Kolkata,Debit Card,Merchant Payment,Groceries,190.23,Success,Android,ICICI Bank,18-25
+TXN001163,2025-12-01,05:27:00,Gujarat,Ahmedabad,Credit Card,Bill Payment,Education,36.98,Success,iOS,SBI,36-45
+TXN000114,2025-12-02,20:56:00,Karnataka,Mangaluru,Debit Card,Recharge,Entertainment,1742.79,Failed,iOS,ICICI Bank,46-60
+TXN000431,2025-12-02,00:10:00,Delhi,New Delhi,Credit Card,Recharge,Healthcare,45.46,Success,iOS,Kotak Mahindra Bank,26-35
+TXN000865,2025-12-02,05:36:00,West Bengal,Kolkata,Mobile Wallet,Recharge,Shopping,80.42,Failed,Android,HDFC Bank,26-35
+TXN001041,2025-12-02,23:36:00,Kerala,Thiruvananthapuram,Mobile Wallet,Merchant Payment,Shopping,799.45,Success,Web,ICICI Bank,46-60
+TXN000027,2025-12-03,18:36:00,Gujarat,Surat,Credit Card,Merchant Payment,Healthcare,46.95,Success,iOS,HDFC Bank,36-45
+TXN000292,2025-12-03,12:54:00,Tamil Nadu,Madurai,UPI,Merchant Payment,Utilities,90.65,Success,Android,HDFC Bank,36-45
+TXN000563,2025-12-03,09:51:00,Tamil Nadu,Chennai,Credit Card,Recharge,Food & Dining,354.65,Success,Android,ICICI Bank,36-45
+TXN000884,2025-12-03,04:09:00,Maharashtra,Pune,Net Banking,Bill Payment,Groceries,421.64,Failed,Web,ICICI Bank,26-35
+TXN000044,2025-12-04,02:18:00,Maharashtra,Nagpur,Net Banking,Bill Payment,Food & Dining,109.83,Success,Android,Other,36-45
+TXN000225,2025-12-04,15:01:00,West Bengal,Kolkata,Net Banking,Online Shopping,Education,92.58,Success,Web,Other,36-45
+TXN000767,2025-12-04,23:36:00,Delhi,Rohini,Net Banking,Online Shopping,Transport,143.31,Success,Android,Other,18-25
+TXN001082,2025-12-04,16:33:00,West Bengal,Howrah,Credit Card,Bill Payment,Utilities,104.66,Success,iOS,HDFC Bank,36-45
+TXN001151,2025-12-04,18:57:00,Gujarat,Ahmedabad,Credit Card,P2P Transfer,Healthcare,55.07,Success,Android,HDFC Bank,46-60
+TXN000060,2025-12-05,11:04:00,Gujarat,Surat,UPI,Recharge,Entertainment,393.68,Success,iOS,Other,46-60
+TXN000323,2025-12-05,08:05:00,West Bengal,Howrah,Debit Card,Bill Payment,Education,65.48,Success,iOS,SBI,36-45
+TXN000343,2025-12-05,10:43:00,Gujarat,Ahmedabad,UPI,Recharge,Shopping,189.61,Success,iOS,Axis Bank,46-60
+TXN000358,2025-12-05,03:42:00,Gujarat,Surat,Net Banking,Online Shopping,Transport,111.2,Success,Android,Kotak Mahindra Bank,60+
+TXN000415,2025-12-05,07:26:00,Karnataka,Mysuru,UPI,Recharge,Entertainment,206.92,Success,Web,HDFC Bank,46-60
+TXN000452,2025-12-05,08:47:00,Delhi,Rohini,UPI,Merchant Payment,Transport,385.73,Success,Android,SBI,46-60
+TXN000499,2025-12-05,08:42:00,Gujarat,Surat,UPI,P2P Transfer,Shopping,61.83,Success,Web,Axis Bank,26-35
+TXN000582,2025-12-05,06:19:00,Gujarat,Surat,UPI,Bill Payment,Entertainment,97.97,Success,Web,Axis Bank,26-35
+TXN001054,2025-12-06,01:15:00,Kerala,Thiruvananthapuram,UPI,Online Shopping,Groceries,192.61,Success,Android,Axis Bank,60+
+TXN000042,2025-12-07,12:43:00,Gujarat,Ahmedabad,Net Banking,Online Shopping,Shopping,176.16,Success,Android,ICICI Bank,36-45
+TXN000897,2025-12-07,08:07:00,West Bengal,Howrah,Mobile Wallet,Online Shopping,Entertainment,125.57,Success,Web,HDFC Bank,36-45
+TXN000030,2025-12-08,17:19:00,Tamil Nadu,Chennai,Debit Card,Bill Payment,Food & Dining,110.86,Failed,Web,Kotak Mahindra Bank,26-35
+TXN000625,2025-12-08,11:25:00,Tamil Nadu,Coimbatore,Mobile Wallet,Bill Payment,Education,730.1,Success,iOS,ICICI Bank,36-45
+TXN000641,2025-12-08,00:48:00,Telangana,Hyderabad,UPI,Online Shopping,Utilities,106.08,Success,Android,HDFC Bank,36-45
+TXN000651,2025-12-08,19:25:00,West Bengal,Howrah,Net Banking,Bill Payment,Transport,942.9,Success,Android,SBI,36-45
+TXN000117,2025-12-10,03:26:00,Kerala,Thiruvananthapuram,Mobile Wallet,P2P Transfer,Shopping,143.35,Success,iOS,SBI,60+
+TXN000402,2025-12-10,18:54:00,Maharashtra,Mumbai,Net Banking,Recharge,Food & Dining,81.5,Success,Android,ICICI Bank,18-25
+TXN000555,2025-12-10,04:08:00,Telangana,Hyderabad,UPI,P2P Transfer,Transport,208.01,Success,iOS,Other,46-60
+TXN000673,2025-12-10,21:56:00,Kerala,Kochi,Mobile Wallet,Merchant Payment,Utilities,105.35,Success,Web,Kotak Mahindra Bank,18-25
+TXN000763,2025-12-10,14:43:00,Tamil Nadu,Chennai,Credit Card,Recharge,Transport,1920.01,Success,Web,SBI,18-25
+TXN000397,2025-12-11,03:34:00,Gujarat,Ahmedabad,Net Banking,P2P Transfer,Groceries,26.76,Success,Android,ICICI Bank,60+
+TXN000490,2025-12-11,23:25:00,Tamil Nadu,Salem,Net Banking,Online Shopping,Food & Dining,358.4,Success,iOS,Axis Bank,26-35
+TXN000571,2025-12-11,00:53:00,Tamil Nadu,Chennai,UPI,Recharge,Food & Dining,151.17,Success,Web,Axis Bank,36-45
+TXN000721,2025-12-11,20:47:00,Gujarat,Surat,Mobile Wallet,Merchant Payment,Utilities,201.91,Success,Web,SBI,46-60
+TXN000382,2025-12-12,23:57:00,Gujarat,Surat,Mobile Wallet,P2P Transfer,Food & Dining,81.5,Success,Android,SBI,18-25
+TXN001160,2025-12-12,23:55:00,Telangana,Warangal,Net Banking,Recharge,Food & Dining,107.25,Success,Web,Other,60+
+TXN000776,2025-12-13,01:35:00,Karnataka,Bengaluru,Credit Card,Recharge,Education,30.87,Success,iOS,HDFC Bank,60+
+TXN000038,2025-12-14,17:21:00,Gujarat,Ahmedabad,UPI,Bill Payment,Transport,20.91,Success,iOS,SBI,18-25
+TXN000753,2025-12-14,05:03:00,Gujarat,Surat,Debit Card,P2P Transfer,Groceries,55.93,Success,Android,ICICI Bank,26-35
+TXN001025,2025-12-14,20:24:00,Delhi,Dwarka,Mobile Wallet,P2P Transfer,Shopping,835.09,Failed,Web,ICICI Bank,26-35
+TXN001026,2025-12-14,10:51:00,Gujarat,Ahmedabad,Debit Card,Bill Payment,Transport,229.6,Success,Android,ICICI Bank,36-45
+TXN001154,2025-12-14,12:19:00,West Bengal,Kolkata,Debit Card,Online Shopping,Food & Dining,39.52,Success,iOS,Kotak Mahindra Bank,46-60
+TXN000167,2025-12-15,16:22:00,West Bengal,Kolkata,Net Banking,Online Shopping,Transport,337.67,Success,Android,Axis Bank,60+
+TXN000346,2025-12-15,10:41:00,Maharashtra,Mumbai,Debit Card,Bill Payment,Utilities,187.18,Success,iOS,Axis Bank,36-45
+TXN000769,2025-12-15,17:56:00,Telangana,Warangal,UPI,Recharge,Groceries,79.28,Success,iOS,Axis Bank,46-60
+TXN000387,2025-12-16,02:11:00,Maharashtra,Mumbai,Net Banking,P2P Transfer,Education,208.88,Success,iOS,Kotak Mahindra Bank,36-45
+TXN001057,2025-12-16,21:47:00,Gujarat,Ahmedabad,Net Banking,Recharge,Groceries,144.67,Success,iOS,Other,26-35
+TXN000008,2025-12-17,10:53:00,Delhi,New Delhi,Debit Card,P2P Transfer,Healthcare,319.72,Success,Android,HDFC Bank,60+
+TXN000228,2025-12-17,02:41:00,Telangana,Hyderabad,UPI,Recharge,Education,50.51,Success,iOS,SBI,18-25
+TXN000899,2025-12-17,07:03:00,Tamil Nadu,Madurai,Mobile Wallet,Online Shopping,Groceries,495.97,Success,iOS,ICICI Bank,46-60
+TXN000959,2025-12-17,13:17:00,Tamil Nadu,Madurai,Debit Card,P2P Transfer,Transport,262.37,Success,iOS,SBI,36-45
+TXN000395,2025-12-18,04:01:00,Karnataka,Mysuru,Credit Card,P2P Transfer,Food & Dining,482.72,Success,Android,ICICI Bank,60+
+TXN000470,2025-12-18,19:21:00,Karnataka,Mangaluru,UPI,P2P Transfer,Healthcare,83.44,Success,Web,Kotak Mahindra Bank,18-25
+TXN000647,2025-12-18,14:14:00,Telangana,Warangal,Credit Card,Recharge,Utilities,10.01,Success,iOS,Other,36-45
+TXN000690,2025-12-18,06:45:00,Gujarat,Surat,Mobile Wallet,Online Shopping,Shopping,231.43,Success,Web,SBI,18-25
+TXN001106,2025-12-18,07:01:00,Gujarat,Surat,Credit Card,Online Shopping,Utilities,52.46,Failed,iOS,SBI,60+
+TXN000442,2025-12-19,00:00:00,Kerala,Kochi,Mobile Wallet,Online Shopping,Food & Dining,143.64,Success,Web,ICICI Bank,26-35
+TXN000639,2025-12-19,07:19:00,Maharashtra,Mumbai,Debit Card,Merchant Payment,Food & Dining,40.86,Success,Android,SBI,18-25
+TXN000741,2025-12-19,15:46:00,West Bengal,Howrah,Debit Card,Merchant Payment,Transport,23.55,Success,iOS,HDFC Bank,60+
+TXN000997,2025-12-19,23:27:00,Kerala,Kochi,Debit Card,P2P Transfer,Utilities,895.77,Success,iOS,Kotak Mahindra Bank,18-25
+TXN000200,2025-12-20,03:40:00,Telangana,Warangal,Credit Card,Online Shopping,Utilities,47.32,Success,Android,Axis Bank,26-35
+TXN000277,2025-12-20,00:54:00,Telangana,Warangal,Debit Card,Online Shopping,Utilities,181.1,Success,iOS,Other,18-25
+TXN000065,2025-12-21,07:19:00,Gujarat,Surat,Mobile Wallet,Online Shopping,Healthcare,334.46,Success,Web,Kotak Mahindra Bank,36-45
+TXN000592,2025-12-21,04:13:00,West Bengal,Kolkata,Credit Card,Online Shopping,Entertainment,92.05,Success,Android,Kotak Mahindra Bank,18-25
+TXN000856,2025-12-21,10:55:00,Karnataka,Bengaluru,Net Banking,Online Shopping,Food & Dining,83.87,Success,iOS,Other,46-60
+TXN000941,2025-12-21,14:30:00,Karnataka,Mysuru,Mobile Wallet,Recharge,Transport,41.25,Success,iOS,Other,46-60
+TXN000242,2025-12-22,20:31:00,Telangana,Hyderabad,Credit Card,Recharge,Shopping,132.33,Success,iOS,ICICI Bank,18-25
+TXN000562,2025-12-22,19:47:00,Tamil Nadu,Madurai,Net Banking,Bill Payment,Groceries,1182.52,Success,Web,HDFC Bank,60+
+TXN000742,2025-12-22,06:29:00,Karnataka,Mysuru,UPI,Merchant Payment,Healthcare,41.28,Failed,Android,Kotak Mahindra Bank,46-60
+TXN000775,2025-12-22,02:50:00,Kerala,Kochi,UPI,Recharge,Groceries,276.39,Success,Web,Axis Bank,18-25
+TXN001028,2025-12-22,10:32:00,West Bengal,Howrah,Mobile Wallet,Bill Payment,Education,167.34,Success,iOS,Axis Bank,18-25
+TXN001175,2025-12-22,01:23:00,Delhi,Rohini,Mobile Wallet,Merchant Payment,Education,69.83,Success,Web,HDFC Bank,36-45
+TXN000214,2025-12-23,13:26:00,Kerala,Kochi,Credit Card,Recharge,Transport,284.69,Success,iOS,HDFC Bank,26-35
+TXN000320,2025-12-23,17:46:00,Gujarat,Surat,Credit Card,Bill Payment,Utilities,130.3,Success,iOS,Kotak Mahindra Bank,60+
+TXN000843,2025-12-23,13:33:00,Karnataka,Mysuru,Credit Card,Recharge,Transport,48.29,Success,Android,Other,26-35
+TXN000911,2025-12-23,04:18:00,Telangana,Hyderabad,Net Banking,P2P Transfer,Utilities,109.1,Success,iOS,Axis Bank,60+
+TXN000103,2025-12-25,09:41:00,West Bengal,Howrah,UPI,Merchant Payment,Groceries,105.35,Failed,iOS,Axis Bank,18-25
+TXN000329,2025-12-25,19:37:00,Tamil Nadu,Salem,UPI,Recharge,Transport,277.03,Success,Web,Kotak Mahindra Bank,18-25
+TXN000676,2025-12-25,03:20:00,Kerala,Thiruvananthapuram,Mobile Wallet,Merchant Payment,Shopping,68.18,Success,Android,ICICI Bank,46-60
+TXN000882,2025-12-25,18:55:00,Kerala,Thiruvananthapuram,Net Banking,Bill Payment,Food & Dining,87.28,Failed,Android,ICICI Bank,46-60
+TXN000066,2025-12-26,14:17:00,Kerala,Thiruvananthapuram,Credit Card,Merchant Payment,Food & Dining,576.08,Success,iOS,SBI,60+
+TXN000380,2025-12-26,17:55:00,Telangana,Warangal,Net Banking,Merchant Payment,Utilities,66.14,Success,Web,ICICI Bank,36-45
+TXN000481,2025-12-26,21:27:00,West Bengal,Kolkata,Debit Card,Merchant Payment,Education,130.59,Success,Web,HDFC Bank,60+
+TXN000957,2025-12-26,23:30:00,Delhi,New Delhi,Credit Card,Recharge,Groceries,209.08,Success,iOS,HDFC Bank,26-35
+TXN000968,2025-12-26,19:59:00,Telangana,Hyderabad,UPI,P2P Transfer,Transport,898.69,Success,Web,Axis Bank,18-25
+TXN001032,2025-12-26,06:33:00,Tamil Nadu,Coimbatore,Net Banking,Recharge,Transport,27.98,Success,Web,Other,26-35
+TXN001058,2025-12-26,13:35:00,Gujarat,Ahmedabad,UPI,Recharge,Food & Dining,479.49,Failed,iOS,ICICI Bank,26-35
+TXN000253,2025-12-27,02:36:00,Telangana,Hyderabad,Net Banking,Merchant Payment,Healthcare,1239.12,Success,iOS,SBI,36-45
+TXN000308,2025-12-27,22:22:00,Tamil Nadu,Coimbatore,Net Banking,Merchant Payment,Entertainment,82.14,Success,Android,Axis Bank,18-25
+TXN000311,2025-12-27,21:25:00,Kerala,Kochi,Credit Card,Bill Payment,Healthcare,119.38,Success,Android,Other,46-60
+TXN000319,2025-12-27,00:27:00,West Bengal,Kolkata,Net Banking,Recharge,Transport,205.24,Success,iOS,HDFC Bank,26-35
+TXN000432,2025-12-27,02:58:00,Tamil Nadu,Chennai,Net Banking,Bill Payment,Healthcare,19.31,Success,iOS,HDFC Bank,60+
+TXN000710,2025-12-27,09:20:00,Gujarat,Surat,Mobile Wallet,Online Shopping,Shopping,809.53,Success,Android,HDFC Bank,26-35
+TXN000088,2025-12-28,12:24:00,West Bengal,Kolkata,Mobile Wallet,P2P Transfer,Transport,206.18,Success,Web,ICICI Bank,18-25
+TXN000656,2025-12-28,05:31:00,Telangana,Warangal,Debit Card,Bill Payment,Education,157.47,Success,Android,Kotak Mahindra Bank,46-60
+TXN000885,2025-12-28,14:11:00,Gujarat,Surat,Credit Card,Recharge,Shopping,293.5,Success,iOS,Kotak Mahindra Bank,26-35
+TXN001099,2025-12-28,22:20:00,Karnataka,Bengaluru,Mobile Wallet,P2P Transfer,Healthcare,371.05,Success,Web,ICICI Bank,18-25
+TXN001159,2025-12-28,07:48:00,West Bengal,Kolkata,Mobile Wallet,Merchant Payment,Healthcare,396.14,Success,Android,Axis Bank,36-45
+TXN000040,2025-12-29,13:00:00,Tamil Nadu,Coimbatore,Credit Card,Recharge,Food & Dining,180.7,Failed,iOS,Kotak Mahindra Bank,36-45
+TXN000215,2025-12-29,04:51:00,Telangana,Warangal,UPI,Online Shopping,Education,108.28,Failed,Web,Kotak Mahindra Bank,26-35
+TXN000224,2025-12-29,04:00:00,Karnataka,Bengaluru,Net Banking,Recharge,Healthcare,29.59,Success,Web,Other,60+
+TXN000573,2025-12-29,03:05:00,Karnataka,Mangaluru,Debit Card,Recharge,Transport,205.8,Failed,Web,HDFC Bank,36-45
+TXN001122,2025-12-29,15:32:00,West Bengal,Kolkata,UPI,Recharge,Food & Dining,486.4,Success,Android,HDFC Bank,60+
+TXN000127,2025-12-30,20:26:00,Gujarat,Surat,UPI,Recharge,Groceries,55.12,Failed,Android,Kotak Mahindra Bank,46-60
+TXN000381,2025-12-30,20:11:00,Maharashtra,Nagpur,Net Banking,Bill Payment,Food & Dining,64.09,Success,Web,Axis Bank,60+
+TXN001102,2025-12-30,05:02:00,Delhi,Dwarka,Credit Card,Online Shopping,Education,8.2,Success,Android,Other,36-45
+TXN001195,2025-12-30,15:48:00,West Bengal,Kolkata,Credit Card,Bill Payment,Shopping,30.17,Success,iOS,Axis Bank,36-45
+TXN000231,2025-12-31,12:59:00,Maharashtra,Mumbai,Credit Card,Merchant Payment,Utilities,71.5,Success,iOS,Other,60+
+TXN001134,2025-12-31,04:53:00,Telangana,Warangal,Net Banking,Recharge,Entertainment,233.58,Success,iOS,Other,18-25
+TXN001178,2025-12-31,19:52:00,Telangana,Warangal,Net Banking,Recharge,Healthcare,134.51,Success,iOS,Kotak Mahindra Bank,18-25
